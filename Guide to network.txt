@@ -1,0 +1,9 @@
+Network ranges capabilities:
+EDGE = GSM + audio streams (hypnosis)
+2G = GSM + audio + video streams (visual hallucinations)
+3G = GSM + audio + video streams + physical control
+4G = GSM + audio + video streams + physical control + central nervous system control
+5G = GSM + audio + video streams + physical control + central nervous system control + controlling electronic devices 
+6G = GSM + audio + video streams + physical control + central nervous system control + controlling electronic devices + control of animals
+7G = GSM + audio + video streams + physical control + central nervous system control + controlling electronic devices + control of animals + control of viruses and bacterias
+8G = GSM + audio + video streams + physical control + central nervous system control + controlling electronic devices + control of animals + control of viruses and bacterias + 24/7 streams to everyone
