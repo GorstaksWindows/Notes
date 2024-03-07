@@ -76,12 +76,12 @@ e) Defensive = end of match and half time
 
 a) Changing fluidity and mentality will make your team weaker (if you decrease it), or too tired before match is over (if you increase it).
 b) Change pressing instead of fluidity, and passing instead of mentality.
-c) Play as agressive and as fluid as you can, but keep in mind mentality will be bypassed if you opt for very fluid
+c) You should use a more agressive approach in first half, then defend the lead in 2nd half. For example, flat 451 in first half and 4231 in 2nd half
 d) Players will get injured or get cards if mentality is higher then fluidity.
 e) If newly assembled team, drop fluidity so players positioning is better
 f) If more structured, players are prone to errors but with good positioning
 g) If more fluid, good with referee, lots of chances
-h) You should use a more agressive approach in first half, then defend the lead in 2nd half. For example, flat 451 in first half and 4231 in 2nd half
+
 
 10) Player responsibilities
 
