@@ -1,169 +1,164 @@
-Maybe you need a stable miniature OS that runs everything. Don't debloat, download mini iso:
+# Maybe you need a stable miniature OS. Linux is basically core os that you download packages to, and those packages dependencies. which are also packages.
 
-#http://archive.ubuntu.com/ubuntu/dists/focal/main/installer-amd64/current/legacy-images/netboot/
+# Download mini iso:
 
-Burn with rufus to stick or if you're on Linux, type this:
+# http://archive.ubuntu.com/ubuntu/dists/focal/main/installer-amd64/current/legacy-images/netboot/
 
-#sudo dd if=pathtoiso of=nameofusbdevice(sdb)
+# Burn with rufus to stick or if you're on Linux, type this:
 
-Boot from stick but not EFI. Do BIOS boot.
+sudo dd if=pathtoiso of=nameofusbdevice(sdb)
 
-Follow the instructions and when offered software, don't pick anything. After reboot, there wont be a GUI, so press ctrl + alt + F1 to get terminal. 
-You can now set root password. This account isn't accessible without a password set, but if you need it, type:
+# Boot from stick but not EFI. Do BIOS boot.
 
-#sudo passwd root
+# Follow the instructions and when offered software, don't pick anything. After reboot, there wont be a GUI, so press ctrl + alt + F1 to get terminal. 
+# You can now set root password. This account isn't accessible without a password set, but if you need it, type:
 
-Now you can download GUI. For example xfce:
+sudo passwd root
 
-#sudo apt install xfce4
+# Now you can download GUI. For example xfce:
 
-Lightdm is essential for some gpus to show picture on screen, so pick lightdm.
+sudo apt install xfce4
 
-#sudo apt install lightdm
+# Lightdm is essential for some gpus to show picture on screen, so pick lightdm.
 
-After that set to auto boot:
+sudo apt install lightdm
 
-#sudo dpkg-configure ligthdm
+# After that set to auto boot:
 
-Now you can install a browser:
+sudo dpkg-configure ligthdm
 
-#sudo apt install firefox
+# Now you can install a browser:
 
-Or:
+sudo apt install firefox
 
-#sudo apt install chromium-browser
+# Or:
 
-If you need to search for specific package, like nvidia driver latest build, type:
+sudo apt install chromium-browser
 
-#sudo apt search nvidia-driver-*
+# If you need to search for specific package, like nvidia driver latest build, type:
 
-To install it, type:
+sudo apt search nvidia-driver-*
 
-#sudo apt install nvidia-driver-435
+# To install it, type:
 
-If you wish to do uninstall, type:
+sudo apt install nvidia-driver-435
 
-#sudo apt remove appname
+# If you wish to do uninstall, type:
 
-Above command can be used with wildcards too:
+sudo apt remove appname
 
-#sudo apt remove nvidia*
+# Above command can be used with wildcards too:
 
-If you also wish to remove dependencies of app you uninstalled:
+sudo apt remove nvidia*
 
-#sudo apt autoremove
+# If you also wish to remove dependencies of app you uninstalled:
 
-All packages are in picked repos. To expand and add more repos:
+sudo apt autoremove
 
-#sudo apt install software-properties-common
+# All packages are in picked repos. To expand and add more repos:
 
-#sudo add-apt-repository multiverse
+sudo apt install software-properties-common
 
-Alternatively, you can use nano editor and edit the repo list manually:
+sudo add-apt-repository multiverse
 
-#sudo nano /etc/apt/sources.list
+# Alternatively, you can use nano editor and edit the repo list manually:
 
-After changing repos, refresh your system:
+sudo nano /etc/apt/sources.list
 
-#sudo apt update
+# After changing repos, refresh your system:
 
-If you need a list of packages in all repos:
+sudo apt update
 
-#sudo apt list
+# If you need a list of packages in all repos:
 
-If you find a 3rd party package, you will need package manager to install it:
+sudo apt list
 
-#sudo apt install gdebi
+# If you find a 3rd party package, you will need package manager to install it:
 
-If you have unmanaged devices:
+sudo apt install gdebi
 
-#sudo nano /etc/NetworkManager/NetworkManager.conf
+# If you have unmanaged devices:
 
-Add this:
+sudo nano /etc/NetworkManager/NetworkManager.conf
 
-#[keyfile]
+# Add this:
 
-#unmanaged-devices=none
+[keyfile]
 
-CTRL+O to save, enter to confirm and CTRL+X to exit. You can restart services like this:
+unmanaged-devices=none
 
-#sudo service network-manager restart
+# CTRL+O to save, enter to confirm and CTRL+X to exit. You can restart services like this:
 
-Snap is like chocolatey on windows:
+sudo service network-manager restart
 
-#sudo snap install discord
+# Snap is like chocolatey on windows:
 
-Then just run discord with:
+sudo snap install discord
 
-#sudo /snap/bin/discord
+# Then just run discord with:
 
-4 music:
+sudo /snap/bin/discord
 
-#sudo apt install clementine
+# 4 music:
 
-4 videos:
+sudo apt install clementine
 
-#sudo snap install vlc
+# 4 videos:
 
-4 torrents:
+sudo snap install vlc
 
-#sudo apt install transmission
+# 4 torrents:
 
-4 archives:
+sudo apt install transmission
 
-#sudo apt install file-roller
+# 4 archives:
 
-4 rar files:
+sudo apt install file-roller
 
-#sudo apt install unrar
+# 4 rar files:
 
-2 manage drives:
+sudo apt install unrar
 
-#sudo apt install gparted
+# 2 manage drives:
 
-2 edit photos:
+sudo apt install gparted
 
-#sudo apt install gimp
+# 2 edit photos:
 
-If you need gdrive:
+sudo apt install gimp
 
-#sudo add-apt-repository ppa:alessandro-strada/ppa
+# If you need gdrive:
 
-#sudo apt install google-drive-ocamlfuse
+sudo add-apt-repository ppa:alessandro-strada/ppa
+sudo apt install google-drive-ocamlfuse
+mkdir /home/username/google-drive
+google-drive-ocamlfuse /home/username/google-drive
+# Where username is your username
 
-#mkdir /home/username/google-drive
+# 2 setup access:
 
-#google-drive-ocamlfuse /home/username/google-drive
+sudo nano /etc/security/access.conf
 
-Where username is your username
+# edit it with:
 
-2 setup access:
++:yourusername:LOCAL
++:root:tty1
+-:ALL:ALL
+# With above edit you allowed yourself to logon locally, root to logon on terminal, and block everyone else from everywhere
 
-#sudo nano /etc/security/access.conf
+# Now type:
 
-edit it with:
+reboot
 
-#+:yourusername:LOCAL
+# Click the white button before typing in your password and change to xfce4.
+# If you need some other desktop, you simply add it:
 
-#+:root:tty1
+sudo apt install kubuntu-desktop
 
-#-:ALL:ALL
+# 2 play games:
 
-With above edit you allowed yourself to logon locally, root to logon on terminal, and block everyone else from everywhere
+sudo apt install steam
 
-Now type:
+# Linux makes a difference between capital and lowercase letters and will return error if it is not exact.
 
-#reboot
-
-Click the white button before typing in your password and change to xfce4.
-If you need some other desktop, you simply add it:
-
-#sudo apt install kubuntu-desktop
-
-2 play games:
-
-#sudo apt install steam
-
-Linux makes a difference between capital and lowercase letters and will return error if it is not exact.
-
-That's it. Enjoy!
+# That's it. Enjoy!
