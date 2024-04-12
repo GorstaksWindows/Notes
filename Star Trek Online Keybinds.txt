@@ -1,7 +1,9 @@
 Copy the following in notepad and save as Space.txt. Then while you are in space in STO, type /unbind_all and then /bind_load_file D:\Space.txt (or path where you saved the file). 
-Assign your abilities to tray 10, 9 and 8, and keep pressing spacebar during combat.
+Assign your abilities to tray 10, 9 and 8, and keep pressing spacebar during combat. tray 7 first two abilities should be your cloaks, which are binded to mouse button 4
  
 Space "GenSendMessage HUD_Root FireAll$$+Power_Exec Distribute_Shields$$CombatLog 1$$InteractWindow$$LootRollNeed$$Target_Enemy_Near$$+TrayExecByTray 9 0$$+TrayExecByTray 9 1$$+TrayExecByTray 9 2$$+TrayExecByTray 9 3$$+TrayExecByTray 9 4$$+TrayExecByTray 9 5$$+TrayExecByTray 9 6$$+TrayExecByTray 9 7$$+TrayExecByTray 9 8$$+TrayExecByTray 9 9$$+TrayExecByTray 8 0$$+TrayExecByTray 8 1$$+TrayExecByTray 8 2$$+TrayExecByTray 8 3$$+TrayExecByTray 8 4$$+TrayExecByTray 8 5$$+TrayExecByTray 8 6$$+TrayExecByTray 8 7$$+TrayExecByTray 8 8$$+TrayExecByTray 8 9$$+TrayExecByTray 7 0$$+TrayExecByTray 7 1$$+TrayExecByTray 7 2$$+TrayExecByTray 7 3$$+TrayExecByTray 7 4$$+TrayExecByTray 7 5$$+TrayExecByTray 7 6$$+TrayExecByTray 7 7$$+TrayExecByTray 7 7$$+TrayExecByTray 7 8$$+TrayExecByTray 7 9$$GenSendMessage HUD_Root FireAll"
+Button4 "+TrayExecByTray 6 0$$+TrayExecByTray 6 1$$+TrayExecByTray 6 0$$"
+
  
 Copy the following in notepad and save as Ground.txt. Then while you are on ground in STO, type /unbind_all and then /bind_load_file D:\Ground.txt (or path where you saved the file). 
 Assign your abilities to tray 2 and 3, make sure basic weapon fire is in default location (tray 1 slot 1) and keep pressing spacebar during combat.
