@@ -5,16 +5,24 @@ Cptn: Any, preferably Alien, preferably Rom.
 Cptn career: Any, preferably sci.
 Cptn skills: You want to get tac ultimate frenzy, at least for yourself, distance penalty should be minimum, resists are important.
 Cptn spec: Command primary, strategist secondary.
-Cptn traits: Whole lotta X's and failsafe scrambler (for survivability), reconstrive radiation (against borg), intelligence agent attache
-Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others).
+Cptn traits: Whole lotta X's and failsafe scrambler (for survivability), reconstructive radiation (against borg), intelligence agent attache
+Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
 Boff powers: You want to buy kemocite I off of exchange, attack pattern beta is also important.
 Ship: Any T6, preferably with 2 experimental upgrades.
 Ship traits: Carrier wave shield hacking (if intel ship) and punch it.
 Has hangars: Use elite type 7 shuttles, meaning you need to buy ahwahnee ship, then when you get unlock, buy elite versions from fleet starbase.
-Ship seating: If Intel, use surgical strikes, if anything else, use cannon scatter volley and fire at will.
-Ship Weapons: Beams in front and turrets rest.
-Consoles: Hull image refractors is a must, hostile aquisition is optional. Xenotech drift consoles with hullpen if you don't have hangar, lorca console is a must, rest protomatter consoles.
+Ship seating: If Intel, use surgical strikes, if anything else, use cannon scatter volley and fire at will and torp spread.
+Ship Weapons: 2 omni in front and turrets rest.
+Consoles: Xenotech drift consoles with hullpen if you don't have hangar, lorca console is a must, rest protomatter consoles.
 Ship gear: Colony deflector, gamma rep core, competetive rep engines and iconian rep shield.
+
+# Mechanics
+Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
+For example if you stack dmg mod, like 4x, dmg will go up 40%. If you stack crtd x4, dmg will go up 80% if you crit. If you don't have high crit chance, you're better off with dmg mod.
+For example, normal beam at mark xv and 75 wep power does 5k dps. Surgical strikes III will increase your dmg 300%, plus your crit chance and severity,
+meaning that beam will do 30k dps with surgical strikes III, but players that rely on 2 copies of each faw, torp spread and csv can do 6x 30k if they have other sources of +dmg. 
+Also, if target has 90% resists, you will only do 10% of your dmg. Advanced consoles you can only have one type of, and I suggest you stack the ones your ship has most of.
+Also, since there is only so much +dmg stuff you can stack, try to double or triple rate of fire with haste sources.
 
 # Space keybinds
 Copy the following in notepad and save as Space.txt. Then while you are in space in STO, type /unbind_all and then /bind_load_file D:\Space.txt (or path where you saved the file). 
