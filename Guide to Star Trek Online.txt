@@ -12,7 +12,7 @@ Ship: Any T6, preferably with 2 experimental upgrades.
 Ship traits: Carrier wave shield hacking (if intel ship) and punch it.
 Has hangars: Use elite type 7 shuttles, meaning you need to buy ahwahnee ship, then when you get unlock, buy elite versions from fleet starbase.
 Ship seating: If Intel, use surgical strikes, if anything else, use cannon scatter volley and fire at will.
-Ship Weapons: Piezzo beams in front and piezzo turrets rest.
+Ship Weapons: Beams in front and turrets rest.
 Consoles: Hull image refractors is a must, hostile aquisition is optional. Xenotech drift consoles with hullpen if you don't have hangar, lorca console is a must, rest protomatter consoles.
 Ship gear: Colony deflector, gamma rep core, competetive rep engines and iconian rep shield.
 
