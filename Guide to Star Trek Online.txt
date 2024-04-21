@@ -5,7 +5,7 @@ Cptn: Any, preferably Alien, preferably Rom.
 Cptn career: Any, preferably sci.
 Cptn skills: You want to get tac ultimate frenzy, at least for yourself, distance penalty should be minimum, resists are important.
 Cptn spec: Command primary, strategist secondary.
-Cptn traits: Whole lotta X's and failsafe scrambler (for survivability), reconstructive radiation (against borg), intelligence agent attache and give your all
+Cptn traits: Whole lotta X's, give your all and failsafe scrambler (for survivability), reconstructive radiation (against borg), intelligence agent attache
 Space Traits: Active hull hardening is a must, chrono if you don't have photonic officer boff power, precision and tylers duality if you need crit chance.
 Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
 Boff powers: You want to buy kemocite I off of exchange, attack pattern beta is also important.
