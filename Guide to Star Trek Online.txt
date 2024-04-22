@@ -33,7 +33,6 @@ You have carrier with elite type 7 and elite delta flyers and xenotech and lorca
 You have surgical strikes III with +dmg consoles but no xenotech consoles = low dmg
 You have +dmg consoles and team debuffs your target = medium dmg
 You have surgical strikes III with xenotech and lorca console or team debuffs your target = medium dmg
-You have elite type 7 and elite delta flyers with xenotech and lorca but no +dmg consoles = medium dmg
 You have elite type 7 and elite delta flyers with +dmg consoles and surgical strikes III = high dmg
 You have +dmg consoles, team debuffs your target and 3 normal attack upgrades with ahwahnee console = high dmg
 You have elite type 7 and elite delta flyers with ahwahnee console, +dmg consoles, and 3 normal attack upgrades = huge dmg
