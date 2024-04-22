@@ -29,7 +29,7 @@ so use single target attack upgrades, if you're squishy.
 # Example
 You have +dmg consoles but don't debuff your target = low dmg
 You have xenotech and lorca console but no +dmg consoles = low dmg
-You have carrier with xenotech and lorca console but no +dmg consoles = low dmg
+You have carrier with elite type 7 and elite delta flyers and xenotech and lorca console but no +dmg consoles = low dmg
 You have surgical strikes III with +dmg consoles but no xenotech consoles = low dmg
 You have +dmg consoles and team debuffs your target = medium dmg
 You have surgical strikes III with xenotech and lorca console or team debuffs your target = medium dmg
