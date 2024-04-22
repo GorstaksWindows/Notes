@@ -28,14 +28,9 @@ so use single target attack upgrades, if you're squishy.
 
 # Example
 You have +dmg consoles but don't debuff your target = low dmg
-You have xenotech and lorca console but no +dmg consoles = low dmg
-You have carrier with elite type 7 and elite delta flyers and xenotech and lorca console but no +dmg consoles = low dmg
-You have surgical strikes III with +dmg consoles but no xenotech consoles = low dmg
-You have +dmg consoles and team debuffs your target = medium dmg
-You have surgical strikes III with xenotech and lorca console or team debuffs your target = medium dmg
-You have elite type 7 and elite delta flyers with +dmg consoles and surgical strikes III = high dmg
-You have +dmg consoles, team debuffs your target and 3 normal attack upgrades with ahwahnee console = high dmg
-You have elite type 7 and elite delta flyers with ahwahnee console, +dmg consoles, and 3 normal attack upgrades = huge dmg
+You have no +dmg consoles but debuff your target = low dmg
+You have +dmg and high crits and debuff your target = medium dmg
+You have +dmg, high crits, haste and debuff your target = high dmg
 
 # Where to do research:
 https://vger.netlify.app (turn on description search in options in top right)
