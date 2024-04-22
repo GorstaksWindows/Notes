@@ -26,6 +26,16 @@ Also, if target has 90% resists, you will only do 10% of your dmg. Advanced cons
 Also, since there is only so much +dmg stuff you can stack, try to double or triple rate of fire with haste sources. Attacking multiple targets means receiving more dmg, 
 so use single target attack upgrades, if you're squishy.
 
+# Example
+You have +dmg consoles but don't debuff your target = low dmg
+You have xenotech and lorca console but no +dmg consoles = low dmg
+You have carrier with xenotech and lorca console but no +dmg consoles = low dmg
+You have surgical strikes III with +dmg consoles but no xenotech consoles = low dmg
+You have surgical strikes III with xenotech and lorca console = medium dmg
+You have elite type 7 and elite delta flyers with xenotech and lorca but no +dmg consoles = medium dmg
+You have elite type 7 and elite delta flyers with +dmg consoles and surgical strikes III = high dmg
+You have elite type 7 and elite delta flyers with ahwahnee console, +dmg consoles, and 3 normal attack upgrades = huge dmg
+
 # Where to do research:
 https://vger.netlify.app (turn on description search in options in top right)
 
