@@ -29,8 +29,9 @@ so use single target attack upgrades, if you're squishy.
 # Example
 You have +dmg consoles but don't debuff your target = low dmg
 You have no +dmg consoles but debuff your target = low dmg
-You have +dmg and high crits and debuff your target = medium dmg
-You have +dmg, high crits, haste and debuff your target = high dmg
+You have +dmg consoles and debuff your target = medium dmg
+You have +dmg and high crits and debuff your target = high dmg
+You have +dmg, high crits, haste and debuff your target = huge dmg
 
 # Where to do research:
 https://vger.netlify.app (turn on description search in options in top right)
