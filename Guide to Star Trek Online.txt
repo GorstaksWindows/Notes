@@ -49,3 +49,27 @@ space is for jump and both mouse buttons for sprint.
  
 1 "InteractWindow$$LootRollNeed$$CombatLog 1$$+TrayExecByTray 0 0$$+TrayExecByTray 1 0$$+TrayExecByTray 1 1$$+TrayExecByTray 1 2$$+TrayExecByTray 1 3$$+TrayExecByTray 1 4$$+TrayExecByTray 1 5$$+TrayExecByTray 1 6$$+TrayExecByTray 1 7$$+TrayExecByTray 1 8$$+TrayExecByTray 1 9$$+TrayExecByTray 2 0$$+TrayExecByTray 2 1$$+TrayExecByTray 2 2$$+TrayExecByTray 2 3$$+TrayExecByTray 2 4$$+TrayExecByTray 2 5$$+TrayExecByTray 2 6$$+TrayExecByTray 2 7$$+TrayExecByTray 2 8$$+TrayExecByTray 2 9$$+TrayExecByTray 2 8$$+TrayExecByTray 2 7$$+TrayExecByTray 2 6$$+TrayExecByTray 2 5$$+TrayExecByTray 2 4$$+TrayExecByTray 2 3$$+TrayExecByTray 2 2$$+TrayExecByTray 2 1$$+TrayExecByTray 2 0$$+TrayExecByTray 1 9$$+TrayExecByTray 1 8$$+TrayExecByTray 1 7$$+TrayExecByTray 1 6$$+TrayExecByTray 1 5$$+TrayExecByTray 1 4$$+TrayExecByTray 1 3$$+TrayExecByTray 1 2$$+TrayExecByTray 1 1$$+TrayExecByTray 1 0$$+TrayExecByTray 0 0" ""
 Leftdrag "+run" ""
+
+# Star Trek Online review
+
+Pro's: 
+
+1) Really free to play, if you have time to grind
+2) A tonne of builds and mechanics to spice things up
+3) Works nicely even on older machines
+4) Chance to fly some of the most known ships in the galaxy
+5) Chance to talk with celebs
+6) Some nice people occasically help you with gifts.
+
+Con's:
+
+1) Innability to test game mechanics properly because your build isn't what is actually applied, instead they update a copy of you as they see fit, and that copy is actual stats.
+2) Mods are extreme left, and they will silence you if you are rightist
+3) They change your character appearance as they see fit. Sometimes you are tall, sometimes a midget, sometimes having someone elses face.
+4) Lots of bugs, getting stuck, missing items, etc.
+5) Depending on level of your own IQ, after X ammount of time you realise the waste.
+
+The above is as objectively written as I possibly can write. Personal observation and advice would be to yes, play this game, but don't spend real money on it, not a dime,
+as stuff you will buy to perform better will do zilch, unless they update your copy. You will be unable to test game mechanics, or play properly.
+And nothing you do will help you perform any better. It's all upto mods and stats on your copy. You can buy ships just to have bragging rights,
+or play missions to follow the story with 1% of your brain. Any kind of competetion and trying to perform better is a fools errand.
