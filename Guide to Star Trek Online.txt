@@ -6,16 +6,16 @@ Cptn career: Any, preferably sci.
 Cptn skills: You want to get tac ultimate frenzy, at least for yourself, distance penalty should be minimum, resists are important.
 Cptn spec: Command primary, strategist secondary.
 Cptn traits: Whole lotta X's, give your all and failsafe scrambler (for survivability), reconstructive radiation (against borg), intelligence agent attache
-Space Traits: Active hull hardening is a must, chrono if you don't have photonic officer boff power, precision and tylers duality if you need crit chance.
+Space Traits: Active hull hardening is a must, chrono if you don't have photonic officer boff power, precision and tylers duality if you need crit chance, omega graviton for dps, energy refrequencer for heals.
 Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
 Boff powers: You want to buy kemocite off of exchange, attack pattern beta is also important.
 Ship: Any T6, preferably with 2 experimental upgrades.
-Ship traits: Carrier wave shield hacking (if intel ship) and punch it.
+Ship traits: Carrier wave shield hacking (if intel ship), punch it, dilithium burn.
 Has hangars: Use elite type 7 shuttles and elite delta flyers, meaning you need to buy ahwahnee ship, then when you get unlock, buy elite version from fleet starbase.
 Ship seating: If Intel, use surgical strikes, if anything else, use cannon scatter volley and fire at will and torp spread.
-Ship Weapons: any, preferably 2 omni and turrets rest.
-Consoles: Xenotech drift consoles with hullpen if you don't have hangar, lorca console is a must, rest protomatter consoles. Image hull refractors optional
-Ship gear: Colony deflector, gamma rep core, competetive rep engines and iconian rep shield.
+Ship Weapons: any, preferably with dmg proc, ba'ul should be decent, agony too.
+Consoles: Xenotech drift consoles with hullpen (eng), lorca console and protomatter (tac), Image hull refractors if you use colony console, otherwise weapon signature nullifiers with plasma proc (sci)
+Ship gear: Colony deflector if you lack crit chance, otherwise fleet axion, gamma rep core, reman engines and iconian rep shield.
 
 # Mechanics
 Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
@@ -32,6 +32,7 @@ You have no +dmg consoles but debuff your target = low dmg
 You have +dmg consoles and debuff your target = medium dmg
 You have +dmg and high crits and debuff your target = high dmg
 You have +dmg, high crits, haste and debuff your target = huge dmg
+You have +dmg, high crits, haste, debuff your target and your weps have a whole list of procs = l33t
 
 # Where to do research:
 https://vger.netlify.app (turn on description search in options in top right)
@@ -49,27 +50,3 @@ space is for jump and both mouse buttons for sprint.
  
 1 "InteractWindow$$LootRollNeed$$CombatLog 1$$+TrayExecByTray 0 0$$+TrayExecByTray 1 0$$+TrayExecByTray 1 1$$+TrayExecByTray 1 2$$+TrayExecByTray 1 3$$+TrayExecByTray 1 4$$+TrayExecByTray 1 5$$+TrayExecByTray 1 6$$+TrayExecByTray 1 7$$+TrayExecByTray 1 8$$+TrayExecByTray 1 9$$+TrayExecByTray 2 0$$+TrayExecByTray 2 1$$+TrayExecByTray 2 2$$+TrayExecByTray 2 3$$+TrayExecByTray 2 4$$+TrayExecByTray 2 5$$+TrayExecByTray 2 6$$+TrayExecByTray 2 7$$+TrayExecByTray 2 8$$+TrayExecByTray 2 9$$+TrayExecByTray 2 8$$+TrayExecByTray 2 7$$+TrayExecByTray 2 6$$+TrayExecByTray 2 5$$+TrayExecByTray 2 4$$+TrayExecByTray 2 3$$+TrayExecByTray 2 2$$+TrayExecByTray 2 1$$+TrayExecByTray 2 0$$+TrayExecByTray 1 9$$+TrayExecByTray 1 8$$+TrayExecByTray 1 7$$+TrayExecByTray 1 6$$+TrayExecByTray 1 5$$+TrayExecByTray 1 4$$+TrayExecByTray 1 3$$+TrayExecByTray 1 2$$+TrayExecByTray 1 1$$+TrayExecByTray 1 0$$+TrayExecByTray 0 0" ""
 Leftdrag "+run" ""
-
-# Star Trek Online review
-
-Pro's: 
-
-1) Really free to play, if you have time to grind
-2) A tonne of builds and mechanics to spice things up
-3) Works nicely even on older machines
-4) Chance to fly some of the most known ships in the galaxy
-5) Chance to talk with celebs
-6) Some nice people occasically help you with gifts.
-
-Con's:
-
-1) Innability to test game mechanics properly because your build isn't what is actually applied, instead they update a copy of you as they see fit, and that copy is actual stats.
-2) Mods are extreme left, and they will silence you if you are rightist
-3) They change your character appearance as they see fit. Sometimes you are tall, sometimes a midget, sometimes having someone elses face.
-4) Lots of bugs, getting stuck, missing items, etc.
-5) Depending on level of your own IQ, after X ammount of time you realise the waste.
-
-The above is as objectively written as I possibly can write. Personal observation and advice would be to yes, play this game, but don't spend real money on it, not a dime,
-as stuff you will buy to perform better will do zilch, unless they update your copy. You will be unable to test game mechanics, or play properly.
-And nothing you do will help you perform any better. It's all upto mods and stats on your copy. You can buy ships just to have bragging rights,
-or play missions to follow the story with 1% of your brain. Any kind of competetion and trying to perform better is a fools errand.
