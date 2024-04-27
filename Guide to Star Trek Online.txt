@@ -32,7 +32,6 @@ You have no +dmg consoles but debuff your target = low dmg
 You have +dmg consoles and debuff your target = medium dmg
 You have +dmg and high crits and debuff your target = high dmg
 You have +dmg, high crits, haste and debuff your target = huge dmg
-You have +dmg, high crits, haste, debuff your target and your weps have a whole list of procs = l33t
 
 # Where to do research:
 https://vger.netlify.app (turn on description search in options in top right)
