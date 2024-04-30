@@ -8,7 +8,6 @@ Cptn spec: Command primary, strategist secondary.
 Cptn traits: Whole lotta X's, give your all and failsafe scrambler (for survivability), reconstructive radiation (against borg), intelligence agent attache
 Space Traits: chrono, aux offense, evasive tactics and magnified firepower.
 Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
-Boff powers: beam overload and cannon rapid fire is important, even if you don't have weapons for them. Attack pattern beta optional. Photonic officer is nice, emergency power to weapons is useful
 Doffs: emergency conn hologram (from phoenix)
 Ship: Any T6, preferably with 2 experimental upgrades.
 Ship traits: punch it, directed dilithium burn, unconventional tactics.
