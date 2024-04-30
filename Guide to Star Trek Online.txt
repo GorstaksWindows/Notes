@@ -13,7 +13,7 @@ Ship: Any T6, preferably with 2 experimental upgrades.
 Ship traits: punch it, directed dilithium burn, unconventional tactics.
 Has hangars: Use elite type 7 shuttles and elite delta flyers, meaning you need to buy ahwahnee ship, then when you get unlock, buy elite version from fleet starbase.
 Ship seating: any
-Ship Weapons: any, preferably with dmg proc, agony should be decent.
+Ship Weapons: any, preferably with dmg mod, agony phasers should be decent.
 Consoles: lorca console, Image hull refractors, athan prime fleet museum beacon, protomatters, 2 isomags with resall, rest isomags with +dmg
 Ship gear: Colony deflector, gamma rep core, reman engines and iconian rep shield.
 
