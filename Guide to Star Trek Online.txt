@@ -15,7 +15,7 @@ Has hangars: Use elite type 7 shuttles and elite delta flyers, meaning you need 
 Ship seating: any
 Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent.
 Consoles: lorca console for shpen, xenotech consoles with pen
-Ship gear: Omega force deflector and shield for tetryon glider, gamma rep core and engines
+Ship gear: Omega force deflector and shield for PvP, colony deflector and Iconian shield for PvE, gamma rep core and engines for both
 
 # Mechanics
 Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
