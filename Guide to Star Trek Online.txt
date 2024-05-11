@@ -26,7 +26,7 @@ Hull resists can usually deny half of your dmg, so sources of pen, or attack pat
 4 or 5 shots, so look for stuff that is per hit, like agony phasers or attack pattern beta.
 
 # Pve
-Increasing threat while using strategist will increase your damage res and hullcap, and if you also use colony deflector, your crits too
+Increasing threat while using strategist will increase your damage res and hullcap, any hull heals and if you also use colony deflector, your crits too
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg
