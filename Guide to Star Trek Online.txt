@@ -1,0 +1,90 @@
+This is a cookie cutter guide, up to date. I wont tell you how to play, will just list what I think you should get to be good.
+
+# Build
+Cptn: Any, preferably Alien, preferably Rom.
+Cptn career: Any, preferably sci.
+Cptn skills: distance penalty should be maxed out, resists, cooldown reduction, crits and penetration is important.
+Cptn spec: Temporal primary, strategist secondary.
+Cptn traits: Whole lotta X's, give your all and failsafe scrambler (for survivability), reconstructive radiation (against borg)
+Space Traits: cooldown reduction, hullpen and control immunity 
+Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
+Doffs: emergency conn hologram (from phoenix), energy officers with crtd
+Ship: Any T6, preferably with 2 experimental upgrades.
+Ship traits: punch it, directed dilithium burn, unconventional tactics.
+Has hangars: Use elite type 7 shuttles and elite delta flyers, meaning you need to buy ahwahnee ship, then when you get unlock, buy elite version from fleet starbase.
+Ship seating: any
+Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent.
+Consoles: lorca console for shpen, xenotech consoles with pen
+Ship gear: Omega force deflector and shield for tetryon glider, gamma rep core and engines
+
+# Mechanics
+Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
+For example, normal beam at mark xv and 75 wep power does 5k dps. Attacking multiple targets means receiving more dmg
+Protomatter consoles will show as procs on your attack upgrades, so reducing cooldown on your 2 attack upgrades is important. You also may want all bonuses applied prior
+to firing your weapons as they usually last longer than weapons fire. Haste will also help. Shields will deny 90-95% of your dmg, so lorca console is important. 
+Hull resists can usually deny half of your dmg, so sources of pen, or attack pattern beta is important. Normal weapon procs are per cycle, meaning they have a chance every
+4 or 5 shots, so look for stuff that is per hit, like agony phasers or attack pattern beta.
+
+# Pve
+Increasing threat while using strategist will increase your damage res and hullcap, if you use colony deflector, your crits too
+
+# Pvp
+Pvp relies on not being targeted by using intel team and surgical strikes for dmg
+
+
+# Math
+A = acc is higher than defense stat
+B = wep type * wep power * wep mark * dmg mod
+C = bonus dmg and/or crit severity off of B dmg
+A = B + C
+
+# Example
+You have +dmg consoles but don't debuff your target = low dmg
+You have no +dmg consoles but debuff your target = low dmg
+You have +dmg consoles and debuff your target = medium dmg
+You have +dmg and high crits and debuff your target = high dmg
+You have +dmg, high crits, haste and debuff your target = huge dmg
+
+# Where to do research:
+https://vger.netlify.app (turn on description search in options in top right)
+
+# Space keybinds
+Copy the following in notepad and save as Space.txt. Then while you are in space in STO, type /unbind_all and then /bind_load_file D:\Space.txt (or path where you saved the file). 
+Assign your lowest cd powers to tray 10 and 9 and keep pressing spacebar during combat.
+ 
+Space "LootRollNeed$$CombatLog 1$$+TrayExecByTray 9 0$$+TrayExecByTray 9 1$$+TrayExecByTray 9 2$$+TrayExecByTray 9 3$$+TrayExecByTray 9 4$$+TrayExecByTray 9 5$$+TrayExecByTray 9 6$$+TrayExecByTray 9 7$$+TrayExecByTray 9 8$$+TrayExecByTray 9 9$$+TrayExecByTray 8 0$$+TrayExecByTray 8 1$$+TrayExecByTray 8 2$$+TrayExecByTray 8 3$$+TrayExecByTray 8 4$$+TrayExecByTray 8 5$$+TrayExecByTray 8 6$$+TrayExecByTray 8 7$$+TrayExecByTray 8 8$$+TrayExecByTray 8 9$$FirePhasers$$+TrayExecByTray 8 9$$+TrayExecByTray 8 8$$+TrayExecByTray 8 7$$+TrayExecByTray 8 6$$+TrayExecByTray 8 5$$+TrayExecByTray 8 4$$+TrayExecByTray 8 3$$+TrayExecByTray 8 2$$+TrayExecByTray 8 1$$+TrayExecByTray 8 0$$+TrayExecByTray 9 9$$+TrayExecByTray 9 8$$+TrayExecByTray 9 7$$+TrayExecByTray 9 6$$+TrayExecByTray 9 5$$+TrayExecByTray 9 4$$+TrayExecByTray 9 3$$+TrayExecByTray 9 2$$+TrayExecByTray 9 1$$+TrayExecByTray 9 0$$FireProjectiles$$"
+
+# Example of tray 7
+emergency power to weapons, brace for impact, attack pattern beta, cannon rapid fire, beam overload, reverse shield polarity, emergency power to engines, evasive maneuvers, photonic officer
+
+# Ground keybinds
+Copy the following in notepad and save as Ground.txt. Then while you are on ground in STO, type /unbind_all and then /bind_load_file D:\Ground.txt (or path where you saved the file). 
+Assign your abilities to tray 2 and 3, make sure basic weapon fire is in default location (tray 1 slot 1) and keep pressing key 1 during combat. 
+space is for jump and both mouse buttons for sprint.
+ 
+1 "LootRollNeed$$CombatLog 1$$+TrayExecByTray 2 0$$+TrayExecByTray 2 1$$+TrayExecByTray 2 2$$+TrayExecByTray 2 3$$+TrayExecByTray 2 4$$+TrayExecByTray 2 5$$+TrayExecByTray 2 6$$+TrayExecByTray 2 7$$+TrayExecByTray 2 8$$+TrayExecByTray 2 9$$+TrayExecByTray 1 0$$+TrayExecByTray 1 1$$+TrayExecByTray 1 2$$+TrayExecByTray 1 3$$+TrayExecByTray 1 4$$+TrayExecByTray 1 5$$+TrayExecByTray 1 6$$+TrayExecByTray 1 7$$+TrayExecByTray 1 8$$+TrayExecByTray 1 9$$FirePhasers$$+TrayExecByTray 1 9$$+TrayExecByTray 1 8$$+TrayExecByTray 1 7$$+TrayExecByTray 1 6$$+TrayExecByTray 1 5$$+TrayExecByTray 1 4$$+TrayExecByTray 1 3$$+TrayExecByTray 1 2$$+TrayExecByTray 1 1$$+TrayExecByTray 1 0$$+TrayExecByTray 2 9$$+TrayExecByTray 2 8$$+TrayExecByTray 2 7$$+TrayExecByTray 2 6$$+TrayExecByTray 2 5$$+TrayExecByTray 2 4$$+TrayExecByTray 2 3$$+TrayExecByTray 2 2$$+TrayExecByTray 2 1$$+TrayExecByTray 2 0$$FireProjectiles$$"
+Leftdrag "+run"
+
+# Star Trek Online review
+
+Pro's: 
+
+1) Really free to play, if you have time to grind
+2) A tonne of builds and mechanics to spice things up
+3) Works nicely even on older machines
+4) Chance to fly some of the most known ships in the galaxy
+5) Chance to talk with celebs
+6) Some nice people occasically help you with gifts.
+
+Con's:
+
+1) Innability to test game mechanics properly because your build isn't what is actually applied, instead they update a copy of you as they see fit, and that copy is actual stats.
+2) Mods are extreme left, and they will silence you if you are rightist
+3) They change your character appearance as they see fit. Sometimes you are tall, sometimes a midget, sometimes having someone elses face.
+4) Lots of bugs, getting stuck, missing items, etc.
+5) Depending on level of your own IQ, after X ammount of time you realise the waste.
+
+The above is as objectively written as I possibly can write. Personal observation and advice would be to yes, play this game, but don't spend real money on it, not a dime,
+as stuff you will buy to perform better will do zilch, unless they update your copy. You will be unable to test game mechanics, or play properly.
+And nothing you do will help you perform any better. It's all upto mods and stats on your copy. You can buy ships just to have bragging rights,
+or play missions to follow the story with 1% of your brain. Any kind of competetion and trying to perform better is a fools errand.
