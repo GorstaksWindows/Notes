@@ -10,7 +10,7 @@ Space Traits: cooldown reduction, hullpen and control immunity
 Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
 Doffs: emergency conn hologram (from phoenix), energy officers with crtd
 Ship: Any T6, preferably with 2 experimental upgrades.
-Ship traits: punch it, directed dilithium burn, unconventional tactics.
+Ship traits: punch it, directed dilithium burn, unconventional tactics, zahl
 Has hangars: Use elite type 7 shuttles and elite delta flyers, meaning you need to buy ahwahnee ship, then when you get unlock, buy elite version from fleet starbase.
 Ship seating: any
 Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent.
@@ -19,18 +19,17 @@ Ship gear: Omega force deflector and shield for tetryon glider, gamma rep core a
 
 # Mechanics
 Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
-For example, normal beam at mark xv and 75 wep power does 5k dps. Attacking multiple targets means receiving more dmg
-Protomatter consoles will show as procs on your attack upgrades, so reducing cooldown on your 2 attack upgrades is important. You also may want all bonuses applied prior
+For example, normal beam at mark xv and 75 wep power does 5k dps. Attacking multiple targets means receiving more dmg and generating more threat.
+Protomatter consoles will show as procs on your attack upgrades, so reducing cooldown on your attack upgrades is important. You also may want all bonuses applied prior
 to firing your weapons as they usually last longer than weapons fire. Haste will also help. Shields will deny 90-95% of your dmg, so lorca console is important. 
 Hull resists can usually deny half of your dmg, so sources of pen, or attack pattern beta is important. Normal weapon procs are per cycle, meaning they have a chance every
 4 or 5 shots, so look for stuff that is per hit, like agony phasers or attack pattern beta.
 
 # Pve
-Increasing threat while using strategist will increase your damage res and hullcap, if you use colony deflector, your crits too
+Increasing threat while using strategist will increase your damage res and hullcap, and if you also use colony deflector, your crits too
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg
-
 
 # Math
 A = acc is higher than defense stat
@@ -48,14 +47,14 @@ You have +dmg, high crits, haste and debuff your target = huge dmg
 # Where to do research:
 https://vger.netlify.app (turn on description search in options in top right)
 
+# Important
+Best stuff is for veterans, and lowest vet tier unlocks at 100 days
+
 # Space keybinds
 Copy the following in notepad and save as Space.txt. Then while you are in space in STO, type /unbind_all and then /bind_load_file D:\Space.txt (or path where you saved the file). 
 Assign your lowest cd powers to tray 10 and 9 and keep pressing spacebar during combat.
  
 Space "LootRollNeed$$CombatLog 1$$+TrayExecByTray 9 0$$+TrayExecByTray 9 1$$+TrayExecByTray 9 2$$+TrayExecByTray 9 3$$+TrayExecByTray 9 4$$+TrayExecByTray 9 5$$+TrayExecByTray 9 6$$+TrayExecByTray 9 7$$+TrayExecByTray 9 8$$+TrayExecByTray 9 9$$+TrayExecByTray 8 0$$+TrayExecByTray 8 1$$+TrayExecByTray 8 2$$+TrayExecByTray 8 3$$+TrayExecByTray 8 4$$+TrayExecByTray 8 5$$+TrayExecByTray 8 6$$+TrayExecByTray 8 7$$+TrayExecByTray 8 8$$+TrayExecByTray 8 9$$FirePhasers$$+TrayExecByTray 8 9$$+TrayExecByTray 8 8$$+TrayExecByTray 8 7$$+TrayExecByTray 8 6$$+TrayExecByTray 8 5$$+TrayExecByTray 8 4$$+TrayExecByTray 8 3$$+TrayExecByTray 8 2$$+TrayExecByTray 8 1$$+TrayExecByTray 8 0$$+TrayExecByTray 9 9$$+TrayExecByTray 9 8$$+TrayExecByTray 9 7$$+TrayExecByTray 9 6$$+TrayExecByTray 9 5$$+TrayExecByTray 9 4$$+TrayExecByTray 9 3$$+TrayExecByTray 9 2$$+TrayExecByTray 9 1$$+TrayExecByTray 9 0$$FireProjectiles$$"
-
-# Example of tray 7
-emergency power to weapons, brace for impact, attack pattern beta, cannon rapid fire, beam overload, reverse shield polarity, emergency power to engines, evasive maneuvers, photonic officer
 
 # Ground keybinds
 Copy the following in notepad and save as Ground.txt. Then while you are on ground in STO, type /unbind_all and then /bind_load_file D:\Ground.txt (or path where you saved the file). 
