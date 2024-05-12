@@ -39,6 +39,7 @@ so you should always move, and try to slow down, or disable engines of your targ
 # Pve
 Increasing threat while using strategist will increase your damage res, hullcap, hull heals and if you also use colony deflector, your crits too. 
 Ideally you wanna use 1 energy weapons aoe attack upgrade, with possibly ba'ul weapons and if possible, one torp/mine aoe attack upgrade with 6s reload torps and/or fast reload mines.
+Attack pattern beta and kemocite might prove useful too.
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg. If you have zahl trait, you wont be killed. 
