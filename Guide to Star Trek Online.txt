@@ -15,7 +15,7 @@ Has hangars: Use elite type 7 shuttles and elite delta flyers, meaning you need 
 Ship seating: any
 Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent, or crafted ones with pen mod.
 Consoles: lorca console for shpen, xenotech consoles with pen, hostile aquisition for acc, slow down, and -drr, 
-fleet power network array for additional attack upgrade and haste (you are also an ally), protomatter consoles for heal and +dmg and sci consoles either amplifiers or dyson sci consles.
+fleet power network array for additional attack upgrade and haste (you are also an ally), protomatter consoles for heal and +dmg and sci consoles either amplifiers or dyson sci consoles.
 Ship gear: Omega force deflector and shield for PvP, colony deflector and Iconian shield for PvE, gamma rep core and engines for both (reeng engines for more spd).
 
 # Mechanics
