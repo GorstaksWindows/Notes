@@ -15,20 +15,28 @@ Has hangars: Use elite type 7 shuttles and elite delta flyers, meaning you need 
 Ship seating: any
 Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent, or crafted ones with pen mod.
 Consoles: lorca console for shpen, xenotech consoles with pen, hostile aquisition for acc, slow down, and -drr, 
-fleet power network array for additional attack upgrade and haste (you are also an ally), protomatter consoles for heal and +dmg and sci consoles either amplifiers or dyson sci consoles.
+fleet power network array for additional attack upgrade and haste (you are also an ally), protomatter consoles for heal and +dmg and either amplifiers or dyson sci consoles.
 Ship gear: Omega force deflector and shield for PvP, colony deflector and Iconian shield for PvE, gamma rep core and engines for both (reeng engines for more spd).
 
 # Mechanics
 Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
 For example, normal beam at mark xv and 75 wep power does 5k dps. Attacking multiple targets means receiving more dmg and generating more threat.
-Protomatter consoles will show as procs on your attack upgrades, so reducing cooldown on your attack upgrades is important. You also may want all bonuses applied prior
-to firing your weapons as they usually last longer than weapons fire. Haste will also help. Shields will deny 90-95% of your dmg, so lorca console is important. 
-Hull resists can usually deny half of your dmg, so sources of pen, or attack pattern beta is important. Normal weapon procs are per cycle, meaning they have a chance every
-4 or 5 shots, so look for stuff that is per hit, like agony phasers or attack pattern beta. Amplifiers from embassy will increase your threat, while dyson sci consoles will work
-with your omega force 2pc, tetryon glider.
+Protomatter consoles will show as procs on your attack upgrades, so reducing cooldown on your attack upgrades is important. Give your all will show as procs on your 
+eng skills. You also may want all bonuses applied prior to firing your weapons as they usually last longer than weapons fire. Haste will also help. 
+Shields will deny 90-95% of your dmg, so lorca console is important. Hull resists can usually deny half of your dmg, so sources of pen, or attack pattern beta is important. 
+Normal weapon procs are per cycle, meaning they have a chance every 4 or 5 shots, so look for stuff that is per hit, like agony phasers or attack pattern beta. 
+Amplifiers from embassy will increase your threat, while dyson sci consoles will work with your omega force 2pc, tetryon glider. 
+You put all +dmg, +crit stuff, but do low dmg. That is because opponents shields resisted 90% of your dmg to it's shields, 
+and 5-10% bleedthrough means only 5-10% dmg went to hull, which met with 50-60% hull resists. This is why you need to have both hull pen and shield pen. 
+In ideal conditions, your team will cast attack pattern beta on your target, they will be your nannies, so you can buff yourself up. If you are doing randoms, 
+you're better off stacking any sources of pen. There is stuff like carrier wave shield hacking trait, which will drop their shield facing, 
+and you should hit them hard when they do. Like, with torps. If not, you're better of beating their shield resists with lorca, and all sources of hullpen you can find.
+Reverse Shield Polarity, aux to inertial, attack pattern omega, control immunity, polarize hull, dmg immunity are all immunities which you can use, 
+but against others using them you should use +75 pen to targets immune to dmg trait. Also, sitting ducks will recieve more dmg since they have lower defense stat, 
+so you should always move, and try to slow down, or disable engines of your target. Try to avoid using more than 2 identical consoles.
 
 # Pve
-Increasing threat while using strategist will increase your damage res and hullcap, any hull heals and if you also use colony deflector, your crits too
+Increasing threat while using strategist will increase your damage res, hullcap, hull heals and if you also use colony deflector, your crits too
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg
@@ -45,18 +53,6 @@ You have no +dmg consoles but debuff your target = low dmg
 You have +dmg consoles and debuff your target = medium dmg
 You have +dmg and high crits and debuff your target = high dmg
 You have +dmg, high crits, haste and debuff your target = huge dmg
-
-# Gameplay
-You put all +dmg, +crit stuff, but do low dmg. That is because opponents shields resisted 90% of your dmg to it's shields, 
-and 5-10% bleedthrough means only 5-10% dmg went to hull, which met with 50-60% hull resists. This is why you need to have
-both hull pen and shield pen. In ideal conditions, your team will cast attack pattern beta on your target, they will be your
-nannies, so you can buff yourself up. If you are doing randoms, you're better off stacking any sources of pen. 
-There is stuff like carrier wave shield hacking, which will drop their shield facing, and you should hit them hard when they
-do. Like, with torps. If not, you're better of beating their shield resists with lorca, and all sources of hullpen you can find.
-Reverse Shield Polarity, aux to inertial, attack pattern omega, control immunity, polarize hull, dmg immunity are all immunities 
-which you can use in pve, but in pvp you should use +75 pen to targets immune to dmg. 
-Also, sitting ducks will recieve more dmg since they have lower defense stat, so you should always move, 
-and try to slow down, or disable engines of your target.
 
 # Where to do research:
 https://vger.netlify.app (turn on description search in options in top right)
