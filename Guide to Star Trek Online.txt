@@ -37,10 +37,12 @@ but against others using them you should use +75 pen to targets immune to dmg tr
 so you should always move, and try to slow down, or disable engines of your target. Try to avoid using more than 2 identical consoles.
 
 # Pve
-Increasing threat while using strategist will increase your damage res, hullcap, hull heals and if you also use colony deflector, your crits too
+Increasing threat while using strategist will increase your damage res, hullcap, hull heals and if you also use colony deflector, your crits too. 
+Ideally you wanna use cannon aoe or beam aoe with torp aoe attack upgrades, with possibly ba'ul weapons and if possible, 6s reload torps.
 
 # Pvp
-Pvp relies on not being targeted by using intel team and surgical strikes for dmg
+Pvp relies on not being targeted by using intel team and surgical strikes for dmg. If you have zahl trait, you wont be killed. 
+Use subnuke first, then carrier wave shield hacking, then forceful inspection, then SS III.
 
 # Math
 A = acc is higher than defense stat
