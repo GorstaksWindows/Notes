@@ -42,7 +42,7 @@ Ideally you wanna use cannon aoe or beam aoe with torp aoe attack upgrades, with
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg. If you have zahl trait, you wont be killed. 
-Use subnuke first, then carrier wave shield hacking, then forceful inspection, then SS III.
+Use subnuke first, then carrier wave shield hacking, then forceful inspection, then SS III. If first strike fails, don't stay in battle.
 
 # Math
 A = acc is higher than defense stat
