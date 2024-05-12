@@ -58,7 +58,7 @@ You have +dmg, high crits, haste and debuff your target = huge dmg
 https://vger.netlify.app (turn on description search in options in top right)
 
 # Important
-Some stuff is for veterans, and lowest vet tier unlocks at 100 days
+Some stuff is for veterans, and lowest vet tier unlocks at 100 days. Type "/played" into chat window.
 
 # Space keybinds
 Copy the following in notepad and save as Space.txt. Then while you are in space in STO, type /unbind_all and then /bind_load_file D:\Space.txt (or path where you saved the file). 
