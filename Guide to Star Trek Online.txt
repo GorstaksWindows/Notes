@@ -43,7 +43,7 @@ Attack pattern beta and kemocite might prove useful too.
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg. If you have zahl trait, you wont be killed. 
-Use subnuke first, then carrier wave shield hacking, then forceful inspection, then SS III. If first strike fails, don't stay in battle.
+Use subnuke first, then carrier wave shield hacking, then forceful inspection, then SS III. Don't stay in battle after SS III expires.
 
 # Math
 A = acc is higher than defense stat
