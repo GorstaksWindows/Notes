@@ -6,7 +6,7 @@ Cptn career: Any, preferably sci.
 Cptn skills: distance penalty should be maxed out, resists, cooldown reduction, crits and penetration is important.
 Cptn spec: Temporal primary, strategist secondary.
 Cptn traits: Whole lotta X's, give your all and failsafe scrambler (for survivability), reconstructive radiation (against borg)
-Space Traits: cooldown reduction, hullpen
+Space Traits: weapon procs + energy refrequencer
 Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
 Doffs: emergency conn hologram (from phoenix), energy officers with crtd
 Ship: Any T6, preferably with 2 experimental upgrades.
@@ -14,9 +14,9 @@ Ship traits: punch it, directed dilithium burn, unconventional tactics, zahl
 Has hangars: Use elite type 7 shuttles and elite delta flyers, meaning you need to buy ahwahnee ship, then when you get unlock, buy elite version from fleet starbase.
 Ship seating: any
 Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent, or crafted ones with pen mod.
-Consoles: lorca console for shpen, xenotech consoles with pen, hostile aquisition for acc, slow down, and -drr, 
+Consoles: lorca console for shpen, isomags with your weapon type, dyson sci consoles, hostile aquisition for acc, slow down, and -drr, 
 fleet power network array for additional attack upgrade and haste (you are also an ally), protomatter consoles for heal and +dmg and either amplifiers or dyson sci consoles.
-Ship gear: Omega force deflector and shield for PvP, colony deflector and Iconian shield for PvE, gamma rep core and engines for both (reeng engines for more spd).
+Ship gear: Omega force deflector and shield, gamma rep core and engines (reeng engines for more spd).
 Ship devices: Nimbus Pirates, Delta reinforcment, Phased Waveform, deuterium surplus, and romulan Rep consumables.
 
 # Mechanics
@@ -30,16 +30,19 @@ Amplifiers from embassy will increase your threat, while dyson sci consoles will
 You put all +dmg, +crit stuff, but do low dmg. That is because opponents shields resisted 90% of your dmg to it's shields, 
 and 5-10% bleedthrough means only 5-10% dmg went to hull, which met with 50-60% hull resists. This is why you need to have both hull pen and shield pen. 
 In ideal conditions, your team will cast attack pattern beta on your target, they will be your nannies, so you can buff yourself up. If you are doing randoms, 
-you're better off stacking any sources of pen. There is stuff like carrier wave shield hacking trait, which will drop their shield facing, 
-and you should hit them hard when they do. Like, with torps. If not, you're better of beating their shield resists with lorca, and all sources of hullpen you can find.
+you're better off stacking any sources of crits. There is stuff like carrier wave shield hacking trait, which will drop their shield facing, 
+and you should hit them hard when they do. Like, with torps. If not, you're better of beating their shield resists with lorca, and APB.
 Reverse Shield Polarity, aux to inertial, attack pattern omega, control immunity, polarize hull, dmg immunity are all immunities which you can use, 
 but against others using them you should use +75 pen to targets immune to dmg trait. Also, sitting ducks will recieve more dmg since they have lower defense stat, 
 so you should always move, and try to slow down, or disable engines of your target. Try to avoid using more than 2 identical consoles.
 
 # Pve
-Increasing threat while using strategist will increase your damage res, hullcap, hull heals and if you also use colony deflector, your crits too. 
-Ideally you wanna use 1 energy weapons aoe attack upgrade, with possibly ba'ul weapons if you need to generate max possible threat and if possible, 
-one torp/mine aoe attack upgrade with 6s reload torps and/or fast reload mines. Attack pattern beta and kemocite might prove useful too.
+Ideally you wanna use 1 energy weapons aoe attack upgrade, with possibly one torp/mine aoe attack upgrade with 6s reload torps and/or fast reload mines. 
+Attack pattern beta and any weapon procs will help. Basically, when you buff your self up for dmg, only 10% will go to their hull, which will meet resists.
+So, you should buff yourself to kill both their shields and their hull while debuffing them. For example, you put 4 isomags or more and hit them hard with 100k
+dmg. You will do 10k to their hull if you beat their hull resists and 90k to their shields if you beat their shield resists. 
+Meaning any damage over time or other proc will help. Tho normal procs on weps are per cycle, meaning once every 4-5 shots, so weps like agony, which are per hit, 
+are extremely valuable. Plasma will also kill target quickly since it ignores shields, while crafted weps with pen will help beat their hull resists.
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg. If you have zahl trait, you wont be killed. 
