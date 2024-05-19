@@ -30,7 +30,7 @@ Cptn career: Any, preferably sci.
 Cptn skills: distance penalty should be maxed out, resists, cooldown reduction, crits and penetration is important.
 Cptn spec: Intel primary, strategist secondary.
 Cptn traits: give your all and failsafe scrambler (for survivability), reconstructive radiation (against borg)
-Space Traits: all 4 dyson + shield pen
+Space Traits: all 4 dyson + shield pen if you unlocked 5th
 Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
 Doffs: emergency conn hologram (from phoenix), energy officers with crtd (rare or very rare)
 Ship: Any T6, preferably with 2 experimental upgrades.
