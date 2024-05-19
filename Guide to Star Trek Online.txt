@@ -4,45 +4,44 @@ This is a cookie cutter guide, up to date. I wont tell you how to play, will jus
 Cptn: Any, preferably Alien, preferably Rom.
 Cptn career: Any, preferably sci.
 Cptn skills: distance penalty should be maxed out, resists, cooldown reduction, crits and penetration is important.
-Cptn spec: Temporal primary, strategist secondary.
-Cptn traits: Whole lotta X's, give your all and failsafe scrambler (for survivability), reconstructive radiation (against borg)
-Space Traits: weapon procs + energy refrequencer
+Cptn spec: Intel primary, strategist secondary.
+Cptn traits: give your all and failsafe scrambler (for survivability), reconstructive radiation (against borg)
+Space Traits: all 4 dyson + shield pen
 Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
-Doffs: emergency conn hologram (from phoenix), energy officers with crtd
+Doffs: emergency conn hologram (from phoenix), energy officers with crtd (rare or very rare)
 Ship: Any T6, preferably with 2 experimental upgrades.
-Ship traits: punch it, directed dilithium burn, unconventional tactics, zahl
-Has hangars: Use elite type 7 shuttles and elite delta flyers, meaning you need to buy ahwahnee ship, then when you get unlock, buy elite version from fleet starbase.
-Ship seating: any
+Ship traits: any
+Ship seating: any, for pvp you want cmdr intel
 Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent, or crafted ones with pen mod.
 Consoles: lorca console for shpen, isomags with your weapon type, dyson sci consoles, hostile aquisition for acc, slow down, and -drr, 
-fleet power network array for additional attack upgrade and haste (you are also an ally), protomatter consoles for heal and +dmg and either amplifiers or dyson sci consoles.
-Ship gear: Omega force deflector and shield, gamma rep core and engines (reeng engines for more spd).
+fleet power network array for additional attack upgrade and haste (you are also an ally), protomatter consoles for heal and +dmg.
+Ship gear: Omega force engines and shield, gamma rep core and colony deflector (reeng engines for more spd).
 Ship devices: Nimbus Pirates, Delta reinforcment, Phased Waveform, deuterium surplus, and romulan Rep consumables.
 
 # Mechanics
 Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
 For example, normal beam at mark xv and 75 wep power does 5k dps. Attacking multiple targets means receiving more dmg and generating more threat.
-Protomatter consoles will show as procs on your attack upgrades, so reducing cooldown on your attack upgrades is important. Give your all will show as procs on your 
-eng skills. You also may want all bonuses applied prior to firing your weapons as they usually last longer than weapons fire. Haste will also help. 
-Shields will deny 90-95% of your dmg, so lorca console is important. Hull resists can usually deny half of your dmg, so sources of pen, or attack pattern beta is important. 
+Protomatter consoles will show as procs on your attack upgrades, so reducing cooldown on your attack upgrades is important. You may slot an attack upgrade even if you don't 
+have those weapons slotted, to trigger the protomatter console. Give your all will show as procs on your eng skills. You also may want all bonuses applied prior to firing 
+your weapons as they usually last longer than weapons fire. Haste will also help. Shields will deny 90-95% of your dmg, and lorca console will beat their shield resists
+so you do full dmg to their shields. Hull resists (armor) can usually deny half of your dmg, so sources of pen, or attack pattern beta is important. 
 Normal weapon procs are per cycle, meaning they have a chance every 4 or 5 shots, so look for stuff that is per hit, like agony phasers or attack pattern beta. 
 Amplifiers from embassy will increase your threat, while dyson sci consoles will work with your omega force 2pc, tetryon glider. 
-You put all +dmg, +crit stuff, but do low dmg. That is because opponents shields resisted 90% of your dmg to it's shields, 
-and 5-10% bleedthrough means only 5-10% dmg went to hull, which met with 50-60% hull resists. This is why you need to have both hull pen and shield pen. 
-In ideal conditions, your team will cast attack pattern beta on your target, they will be your nannies, so you can buff yourself up. If you are doing randoms, 
-you're better off stacking any sources of crits. There is stuff like carrier wave shield hacking trait, which will drop their shield facing, 
-and you should hit them hard when they do. Like, with torps. If not, you're better of beating their shield resists with lorca, and APB.
+Shields have a 5-10% bleedthrough means only 5-10% dmg went to hull, which met with 50-60% hull resists. This is why you need to have both hull pen and shield pen. 
+In ideal conditions, your team will cast attack pattern beta on your target, they will be your nannies, so you can buff yourself up. 
+There is stuff like carrier wave shield hacking trait, which will drop their shield facing, and you should hit them hard when they do. Like, with torps. 
+If not, you're better of beating their shield resists with lorca, and using APB. 
 Reverse Shield Polarity, aux to inertial, attack pattern omega, control immunity, polarize hull, dmg immunity are all immunities which you can use, 
 but against others using them you should use +75 pen to targets immune to dmg trait. Also, sitting ducks will recieve more dmg since they have lower defense stat, 
-so you should always move, and try to slow down, or disable engines of your target. Try to avoid using more than 2 identical consoles.
+so you should always move, and try to slow down, or disable engines of your target.
 
 # Pve
 Ideally you wanna use 1 energy weapons aoe attack upgrade, with possibly one torp/mine aoe attack upgrade with 6s reload torps and/or fast reload mines. 
-Attack pattern beta and any weapon procs will help. Basically, when you buff your self up for dmg, only 10% will go to their hull, which will meet resists.
+Attack pattern beta and any weapon procs will help. Basically, when you buff your self up for dmg, only 5-10% will go to their hull, which will meet resists.
 So, you should buff yourself to kill both their shields and their hull while debuffing them. For example, you put 4 isomags or more and hit them hard with 100k
 dmg. You will do 10k to their hull if you beat their hull resists and 90k to their shields if you beat their shield resists. 
 Meaning any damage over time or other proc will help. Tho normal procs on weps are per cycle, meaning once every 4-5 shots, so weps like agony, which are per hit, 
-are extremely valuable. Plasma will also kill target quickly since it ignores shields, while crafted weps with pen will help beat their hull resists.
+are extremely valuable. Plasma will also kill target quickly since it's proc ignores shields, while crafted weps with pen will help beat their hull resists.
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg. If you have zahl trait, you wont be killed. 
@@ -80,3 +79,30 @@ space is for jump and both mouse buttons for sprint.
  
 1 "LootRollNeed$$CombatLog 1$$+TrayExecByTray 2 0$$+TrayExecByTray 2 1$$+TrayExecByTray 2 2$$+TrayExecByTray 2 3$$+TrayExecByTray 2 4$$+TrayExecByTray 2 5$$+TrayExecByTray 2 6$$+TrayExecByTray 2 7$$+TrayExecByTray 2 8$$+TrayExecByTray 2 9$$+TrayExecByTray 1 0$$+TrayExecByTray 1 1$$+TrayExecByTray 1 2$$+TrayExecByTray 1 3$$+TrayExecByTray 1 4$$+TrayExecByTray 1 5$$+TrayExecByTray 1 6$$+TrayExecByTray 1 7$$+TrayExecByTray 1 8$$+TrayExecByTray 1 9$$+TrayExecByTray 0 0$$+TrayExecByTray 1 9$$+TrayExecByTray 1 8$$+TrayExecByTray 1 7$$+TrayExecByTray 1 6$$+TrayExecByTray 1 5$$+TrayExecByTray 1 4$$+TrayExecByTray 1 3$$+TrayExecByTray 1 2$$+TrayExecByTray 1 1$$+TrayExecByTray 1 0$$+TrayExecByTray 2 9$$+TrayExecByTray 2 8$$+TrayExecByTray 2 7$$+TrayExecByTray 2 6$$+TrayExecByTray 2 5$$+TrayExecByTray 2 4$$+TrayExecByTray 2 3$$+TrayExecByTray 2 2$$+TrayExecByTray 2 1$$+TrayExecByTray 2 0$$"
 Leftdrag "+run"
+
+# Star Trek Online review
+
+Pro's: 
+
+1) Really free to play, if you have time to grind
+2) A tonne of builds and mechanics to spice things up
+3) Works nicely even on older machines
+4) Chance to fly some of the most known ships in the galaxy
+5) Chance to talk with celebs
+6) Some nice people occasically help you with gifts.
+
+Con's:
+
+1) Innability to test game mechanics properly because your build isn't what is actually applied, instead they update a copy of you as they see fit, and that copy is actual stats.
+2) Mods are extreme left, and they will silence you if you are rightist
+3) They change your character appearance as they see fit. Sometimes you are tall, sometimes a midget, sometimes having someone elses face.
+4) Lots of bugs, getting stuck, missing items, etc.
+5) Depending on level of your own IQ, after X ammount of time you realise the waste.
+
+The above is as objectively written as I possibly can write. Personal observation and advice would be to yes, play this game, but don't spend real money on it, not a dime,
+as stuff you will buy to perform better will do zilch, unless they update your copy. You will be unable to test game mechanics, or play properly.
+And nothing you do will help you perform any better. It's all upto mods and stats on your copy. You can buy ships just to have bragging rights,
+or play missions to follow the story with 1% of your brain. Any kind of competetion and trying to perform better is a fools errand. Basically they spend time forming an
+opinion about you throwing bones in chat and decide what to based on your reply or someones orders. This game isn't really a game where you can learn mechanics,
+apply changes and thrive in your own smart thinking. This is basically a 3D social network garbage with star trek theme. If you do spend money on this, count on it as
+pure cosmetics, even tho it should help you perform better. It wont if they decide it wont.
