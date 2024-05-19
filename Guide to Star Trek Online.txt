@@ -57,19 +57,17 @@ There is stuff like carrier wave shield hacking trait, which will drop their shi
 If not, you're better of beating their shield resists with lorca, and using APB. 
 Reverse Shield Polarity, aux to inertial, attack pattern omega, control immunity, polarize hull, dmg immunity are all immunities which you can use, 
 but against others using them you should use +75 pen to targets immune to dmg trait. Also, sitting ducks will recieve more dmg since they have lower defense stat, 
-so you should always move, and try to slow down, or disable engines of your target.
-
-# Pve
-Ideally you wanna use 1 energy weapons aoe attack upgrade, with possibly one torp/mine aoe attack upgrade with 6s reload torps and/or fast reload mines. 
-Attack pattern beta and any weapon procs will help. Basically, when you buff your self up for dmg, only 5-10% will go to their hull, which will meet resists.
-So, you should buff yourself to kill both their shields and their hull while debuffing them. For example, you put 4 isomags or more and hit them hard with 100k
-dmg. You will do 10k to their hull if you beat their hull resists and 90k to their shields if you beat their shield resists. 
-Meaning any damage over time or other proc will help. Tho normal procs on weps are per cycle, meaning once every 4-5 shots, so weps like agony, which are per hit, 
-are extremely valuable. Plasma will also kill target quickly since it's proc ignores shields, while crafted weps with pen will help beat their hull resists.
+so you should always move, and try to slow down, or disable engines of your target. Ideally you wanna use 1 energy weapons aoe attack upgrade, 
+with possibly one torp/mine aoe attack upgrade with 6s reload torps and/or fast reload mines. Attack pattern beta and any weapon procs will help. 
+Basically, when you buff your self up for dmg, only 5-10% will go to their hull, which will meet resists. So, you should buff yourself to kill both their shields 
+and their hull while debuffing them. For example, you put 4 isomags or more and hit them hard with 100k dmg. You will do 10k to their hull if you beat their hull 
+resists and 90k to their shields if you beat their shield resists. Meaning any damage over time or other proc will help. 
+Tho normal procs on weps are per cycle, meaning once every 4-5 shots, so weps like agony, which are per hit, are extremely valuable. 
+Plasma will also kill target quickly since it's proc ignores shields, while crafted weps with pen will help beat their hull resists.
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg. If you have zahl trait, you wont be killed. 
-Use subnuke first, then carrier wave shield hacking, then forceful inspection, then SS III. Don't stay in battle after SS III expires.
+Use subnuke first, then forceful inspection, any weapon boosts, then SS III.
 
 # Math
 A = acc is higher than defense stat
