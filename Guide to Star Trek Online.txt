@@ -39,7 +39,7 @@ Ship seating: any, for pvp you want cmdr intel
 Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent, or crafted ones with pen mod.
 Consoles: lorca console for shpen, isomags with your weapon type, dyson sci consoles, hostile aquisition for acc, slow down, and -drr, 
 fleet power network array for additional attack upgrade and haste (you are also an ally), protomatter consoles for heal and +dmg.
-Ship gear: Omega force engines and shield, gamma rep core and colony deflector (reeng engines for more spd).
+Ship gear: Omega force engines and shield, gamma rep core and colony deflector
 Ship devices: Nimbus Pirates, Delta reinforcment, Phased Waveform, deuterium surplus, and romulan Rep consumables.
 
 # Mechanics
