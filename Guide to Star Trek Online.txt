@@ -57,7 +57,10 @@ they will be your nannies, so you can buff yourself up. Reverse Shield Polarity,
 dmg immunity are immunities which you can use, but against others using them you should use +75 pen to targets immune to dmg trait. 
 Also, sitting ducks will recieve more dmg since they have lower defense stat, so you should always move, and try to slow down, or disable engines of your target. 
 If you prefer not to move around, get Anchored trait. Ideally you wanna use 1 energy weapons aoe attack upgrade, 
-with possibly one torp/mine aoe attack upgrade with 6s reload torps and/or fast reload mines. 
+with possibly one torp/mine aoe attack upgrade with 6s reload torps and/or fast reload mines. EPG is basically dmg that ignores shields and doesn't involve weapons.
+Exotic is any dmg that ignores shields. Note I didn't write pen it, but ignore it. So if you don't have lorca console, I guess epg or exotic can be a cool build.
+Torps I didn't play much around with, but usually dps is damage per second, meaning any wepon that does spike dmg is usefull, huge dmg in short ammount of time.
+If you're chasing dps, look for that kind of weapons, and quad cannons maybe.
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg. If you have zahl trait, you wont be killed. 
