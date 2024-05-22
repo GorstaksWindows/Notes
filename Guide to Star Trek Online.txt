@@ -40,7 +40,7 @@ Ship traits: any
 Ship seating: any, for pvp you want cmdr intel
 Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent, or crafted ones with pen mod.
 Consoles: lorca console for shpen, hostile aquisition for acc, slow down, and -drr, fleet power network array for additional attack upgrade and haste (you are also an ally), 
-protomatter consoles for heal and +dmg and xenotech consoles for hullpen and resall.
+protomatter consoles for heal and +dmg and xenotech consoles for hullpen, resall and turn rate.
 Ship gear: Omega force engines and shield, gamma rep core and colony deflector
 Ship devices: Nimbus Pirates, Delta reinforcment, Phased Waveform, deuterium surplus, and romulan Rep consumables.
 
