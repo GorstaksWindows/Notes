@@ -62,7 +62,8 @@ If you prefer not to move around, get Anchored trait. Ideally you wanna use 1 en
 with possibly one torp/mine aoe attack upgrade with 6s reload torps and/or fast reload mines. EPG is basically dmg that ignores shields and doesn't involve weapons.
 Exotic is any dmg that ignores shields. Note I didn't write pen it, but ignore it. So if you don't have lorca console, I guess epg or exotic can be a cool build.
 Torps I didn't play much around with, but usually dps is damage per second, meaning any wepon that does spike dmg is usefull, huge dmg in short ammount of time.
-If you're chasing dps, look for that kind of weapons, and quad cannons maybe.
+If you're chasing dps, look for that kind of weapons, and quad cannons maybe. Also, try to avoid slotting two or more identical consoles. 
+Ideally you want 1 of each kind of consoles, combining 2 different things.
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg. If you have zahl trait, you wont be killed. 
