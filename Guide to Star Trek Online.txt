@@ -32,7 +32,8 @@ Cptn spec: Temporal primary, strategist secondary.
 Cptn traits: give your all and failsafe scrambler (for survivability), reconstructive radiation (against borg)
 Space Traits: same as skills
 Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
-Boff Powers: Your ensign slot should always have Team ability, polarize hull and attack pattern beta is important, Intel powers and tractor beam are important if you have carrier wave shield hacking trait, Photonic officer is important to reduce cd.
+Boff Powers: Your ensign slot should always have Team ability, polarize hull and attack pattern beta is important, 
+Intel powers and tractor beam are important if you have carrier wave shield hacking trait, Photonic officer is important to reduce cd.
 Doffs: emergency conn hologram (from phoenix), energy officers with crtd (rare is good enough)
 Ship: Any T6, preferably with 2 experimental upgrades.
 Ship traits: any
