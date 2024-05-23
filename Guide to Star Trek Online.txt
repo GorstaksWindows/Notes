@@ -50,7 +50,7 @@ For example, normal beam at mark xv and 75 wep power does 4k dps. At XII it does
 Protomatter consoles will show as procs on your attack upgrades, so reducing cooldown on your attack upgrades is important. 
 You can slot an attack upgrade even if you don't have those weapons slotted, to trigger the protomatter console. Give your all will show as procs on your eng skills. 
 You also may want all bonuses applied prior to firing your weapons as they usually last longer than weapons fire. Haste will also help. 
-Shields will deny 90-95% of your dmg, and lorca console is basicaclly shield pen. Hull resists (armor) can usually deny half of your dmg, so sources of pen, or attack pattern beta is important. 
+Shields will deny 90-95% of your dmg, and lorca console is basically shield pen. Hull resists (armor) can usually deny half of your dmg, so sources of pen, or attack pattern beta is important. 
 Pen, be it shield or hull, doesn't beat resists, it actually increases bleedthrough. 
 So normal shields have 5-10% bleedthroughs, and if you have lorca and shpen trait, you can get it to 100%. 
 Similarily, hull resist 60% means there is 40% bleedthrough. Normal weapon procs are per cycle, meaning they have a chance every 4 or 5 shots, 
@@ -61,9 +61,9 @@ Also, sitting ducks will recieve more dmg since they have lower defense stat, so
 If you prefer not to move around, get Anchored trait. Ideally you wanna use 1 energy weapons aoe attack upgrade, 
 with possibly one torp/mine aoe attack upgrade with 6s reload torps and/or fast reload mines. EPG is basically dmg that ignores shields and doesn't involve weapons.
 Exotic is any dmg that ignores shields. Note I didn't write pen it, but ignore it. So if you don't have lorca console, I guess epg or exotic can be a cool build.
-Torps I didn't play much around with, but usually dps is damage per second, meaning any wepon that does spike dmg is usefull, huge dmg in short ammount of time.
+Torps I didn't play much around with, but usually dps is damage per second, meaning any weapon that does spike dmg is useful, huge dmg in short ammount of time.
 If you're chasing dps, look for that kind of weapons, and quad cannons maybe. Also, try to avoid slotting two or more identical consoles. 
-Ideally you want 1 of each kind of consoles, combining 2 different things.
+Ideally you want 1 of each kind of consoles, combining 2 or more different things.
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg. If you have zahl trait, you wont be killed. 
