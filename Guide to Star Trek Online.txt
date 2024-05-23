@@ -42,7 +42,7 @@ Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent,
 Consoles: lorca console for shpen, hostile aquisition for acc, slow down, and -drr, fleet power network array for additional attack upgrade and haste (you are also an ally), 
 protomatter consoles for heal and +dmg and xenotech consoles for hullpen, resall and turn rate.
 Ship gear: Omega force engines and shield, gamma rep core and colony deflector
-Ship devices: Nimbus Pirates, Delta reinforcment, Phased Waveform, deuterium surplus, and romulan Rep consumables.
+Ship devices: Nimbus Pirates, Delta reinforcement, Phased Waveform, deuterium surplus, and romulan Rep consumables.
 
 # Mechanics
 Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
