@@ -46,7 +46,7 @@ Ship devices: Nimbus Pirates, Delta reinforcment, Phased Waveform, deuterium sur
 
 # Mechanics
 Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
-For example, normal beam at mark xv and 75 wep power does 5k dps. Attacking multiple targets means receiving more dmg and generating more threat.
+For example, normal beam at mark xv and 75 wep power does 4k dps. At XII it does 2k. Attacking multiple targets means receiving more dmg and generating more threat.
 Protomatter consoles will show as procs on your attack upgrades, so reducing cooldown on your attack upgrades is important. 
 You can slot an attack upgrade even if you don't have those weapons slotted, to trigger the protomatter console. Give your all will show as procs on your eng skills. 
 You also may want all bonuses applied prior to firing your weapons as they usually last longer than weapons fire. Haste will also help. 
