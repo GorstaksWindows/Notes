@@ -1,29 +1,3 @@
-# Star Trek Online review
-
-Pro's: 
-
-1) Really free to play, if you have time to grind
-2) A tonne of builds and mechanics to spice things up
-3) Works nicely even on older machines
-4) Chance to fly some of the most known ships in the galaxy
-5) Chance to talk with celebs
-6) Some nice people occasically help you with gifts.
-
-Con's:
-
-1) Innability to test game mechanics properly because your build isn't what is actually applied, instead they update a copy of you as they see fit, and that copy is actual stats.
-2) Mods are extreme left, and they will silence you if you are rightist
-3) Lots of bugs, getting stuck, missing items, etc.
-4) Depending on level of your own IQ, after X ammount of time you realise the waste.
-
-The above is as objectively written as I possibly can write. Personal observation and advice would be to yes, play this game, but don't spend real money on it, not a dime,
-as stuff you will buy to perform better will do zilch, unless they update your copy. You will be unable to test game mechanics, or play properly.
-And nothing you do will help you perform any better. It's all upto mods and stats on your copy. You can buy ships just to have bragging rights,
-or play missions to follow the story with 1% of your brain. Any kind of competetion and trying to perform better is a fools errand. Basically they spend time forming an
-opinion about you throwing bones in chat and decide what to do based on your reply or someones orders. This game isn't really a game where you can learn mechanics,
-apply changes and thrive in your own smart thinking. This is basically a 3D social network garbage with star trek theme. If you do spend money on this, count on it as
-pure cosmetics, even tho it should help you perform better. It wont if they decide it wont.
-
 # Build
 Cptn: Any, preferably Alien, preferably Rom.
 Cptn career: Any, preferably sci.
@@ -45,35 +19,33 @@ Ship gear: Omega force engines and shield, gamma rep core and colony deflector
 Ship devices: Nimbus Pirates, Delta reinforcement, Phased Waveform, deuterium surplus, and romulan Rep consumables.
 
 # Mechanics
-Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
-For example, normal beam at mark xv and 75 wep power does 4k dps. At XII it does 2k. Attacking multiple targets means receiving more dmg and generating more threat.
-Protomatter consoles will show as procs on your attack upgrades, so reducing cooldown on your attack upgrades is important. 
-You can slot an attack upgrade even if you don't have those weapons slotted, to trigger the protomatter console. Give your all will show as procs on your eng skills. 
-You also may want all bonuses applied prior to firing your weapons as they usually last longer than weapons fire. Haste will also help. 
-Shields will deny 90-95% of your dmg, and lorca console is basically shield pen. Hull resists (armor) can usually deny half of your dmg, so sources of pen, or attack pattern beta is important. 
-Pen, be it shield or hull, doesn't beat resists, it actually increases bleedthrough. 
-So normal shields have 5-10% bleedthroughs, and if you have lorca and shpen trait, you can get it to 100%. 
+Attacking multiple targets means receiving more dmg and generating more threat. If you use strategist specialization, and hull image refractors console, with threat cptn skill,
+you can have everyone shooting at you, while those things will increase your hullcap, your crits, and any incoming heals. Protomatter consoles will show as procs on your attack upgrades, 
+so reducing cooldown on your attack upgrades is important. You can slot an attack upgrade even if you don't have those weapons slotted, to trigger the protomatter console. 
+Give your all trait will show as procs on your eng skills. You also may want all bonuses applied prior to firing your weapons as they usually last longer than weapons fire, 
+so if your haste triggers, you do double dmg. Shields will deny 90-95% of your dmg, so lorca console, which is basically shield pen is important.
+Hull resists (armor) can usually deny half of your dmg, so sources of pen, or attack pattern beta is important. Pen, be it shield or hull, doesn't beat resists, it actually increases bleedthrough. 
+So normal shields have 5-10% bleedthroughs, and if you have lorca and shpen trait, you can get it to 100%. Carrier wave shield hacking trait can insta drop their shields. 
 Similarily, hull resist 60% means there is 40% bleedthrough. Normal weapon procs are per cycle, meaning they have a chance every 4 or 5 shots, 
 so look for stuff that is per hit, like agony phasers or attack pattern beta. In ideal conditions, your team will cast attack pattern beta on your target, 
 they will be your nannies, so you can buff yourself up. Reverse Shield Polarity, aux to inertial, attack pattern omega, control immunity, polarize hull, 
 dmg immunity are immunities which you can use, but against others using them you should use +75 pen to targets immune to dmg trait. 
 Also, sitting ducks will recieve more dmg since they have lower defense stat, so you should always move, and try to slow down, or disable engines of your target. 
-If you prefer not to move around, get Anchored trait. Ideally you wanna use 1 energy weapons aoe attack upgrade, 
-with possibly one torp/mine aoe attack upgrade with 6s reload torps and/or fast reload mines. EPG is basically dmg that ignores shields and doesn't involve weapons.
-Exotic is any dmg that ignores shields. Note I didn't write pen it, but ignore it. So if you don't have lorca console, I guess epg or exotic can be a cool build.
-Torps I didn't play much around with, but usually dps is damage per second, meaning any weapon that does spike dmg is useful, huge dmg in short ammount of time.
-If you're chasing dps, look for that kind of weapons, and quad cannons maybe. Also, try to avoid slotting two or more identical consoles. 
-Ideally you want 1 of each kind of consoles, combining 2 or more different things.
+If you prefer not to move around, get Anchored trait. Ideally you wanna use 1 energy weapons aoe attack upgrade, with possibly one torp/mine aoe attack upgrade with 6s reload 
+torps and/or fast reload mines. EPG is basically dmg that ignores shields and doesn't involve weapons. Exotic is any dmg that ignores shields. Note I didn't write pen it, but ignore it. 
+So if you don't have lorca console, I guess epg or exotic can be a cool build. Torps I didn't play much around with, but dps is damage per second, meaning any weapon that does spike dmg is useful, 
+huge dmg in short ammount of time. If you're chasing dps, look for that kind of weapons, and quad cannons maybe. Also, try to avoid slotting two or more identical things. 
+Ideally you want 1 of each kind of things, combining 2 or more different things. If you have 8 same things, not more than 2 will actually work.
+
+# Dmg calc
+Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
+For example, normal beam at mark XII does 2k dmg and at xv and 75 wep power does 4k dps. If you add 5 30% +dmg consoles and 5 dmg (10% +dmg each) mods, 
+that wep will do 200% more dmg, meaning 12k. If you also do surgical strikes III attack upgrade, for another 300%, it will do 20k. If you also do crit for 100%
+it will be 800% +dmg on your 4k, meaning 32k dmg. If you also do haste 100%, it will be 64k. If you get 6 weps to do all that, it will be 384k.
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg. If you have zahl trait, you wont be killed. 
 Use subnuke first, then forceful inspection, any weapon boosts, then SS III.
-
-# Math
-A = acc is higher than defense stat
-B = wep type * wep power * wep mark * dmg mod
-C = bonus dmg and/or crit severity off of B dmg
-A = B + C
 
 # Example
 You have +dmg consoles but don't debuff your target = low dmg
