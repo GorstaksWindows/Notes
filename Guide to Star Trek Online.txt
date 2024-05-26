@@ -67,7 +67,7 @@ Ideally you want 1 of each kind of things, combining 2 or more different things.
 Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
 For example, normal beam at mark XII does 500 dmg and at xv and 75 wep power does 1k dps. If you add 5 30% +dmg consoles and 5 dmg mods (10% +dmg each), 
 that wep will do 200% more dmg, meaning 3k. If you also do surgical strikes III attack upgrade, for another 300%, it will do 6k. If you also do crit for 100%
-it will be 800% +dmg on your 1k, meaning 8k dmg. If you also do haste 100%, it will be 16k. If you get 6 weps to do all that, it will be 96k.
+it will be 800% +dmg on your 1k, meaning 9k dmg. If you also do haste 100%, it will be 18k. If you get 6 weps to do all that, it will be 108k.
 
 # Pvp
 Pvp relies on not being targeted by using intel team and surgical strikes for dmg. If you have zahl trait, you wont be killed. 
@@ -85,11 +85,6 @@ https://vger.netlify.app (turn on description search in options in top right)
 
 # Important
 Some stuff is for veterans, and lowest vet tier unlocks at 100 days. Type "/played" into chat window.
-
-# Even more important
-Joining randoms means you are a nanny. Assist target on attack option should be on in control tab in options.
-If you are the one who initiated the tfo, turn it off and leech from everyone else.
-Meaning if you are the tfo starter you should have high dps, if you are nanny, low.
 
 # Space keybinds
 Copy the following in notepad and save as Space.txt. Then while you are in space in STO, type /unbind_all and then /bind_load_file D:\Space.txt (or path where you saved the file). 
