@@ -88,7 +88,8 @@ Some stuff is for veterans, and lowest vet tier unlocks at 100 days. Type "/play
 
 # Space keybinds
 Copy the following in notepad and save as Space.txt. Then while you are in space in STO, type /unbind_all and then /bind_load_file D:\Space.txt (or path where you saved the file). 
-Assign your powers to tray 10, 9, 8 and 7 and keep pressing spacebar during combat. Press key 1 to fire weapons.
+Assign your powers to tray 10, 9, 8 and 7 and keep pressing spacebar during combat. Press key 1 to fire weapons. If you slot mines, pressing 1 a few times will start the mines, 
+and set your weapons on cycle, so you don't have to press 1 later on, just spacebar.
 
 Space "+TrayExecByTray 9 0$$+TrayExecByTray 9 1$$+TrayExecByTray 9 2$$+TrayExecByTray 9 3$$+TrayExecByTray 9 4$$+TrayExecByTray 9 5$$+TrayExecByTray 9 6$$+TrayExecByTray 9 7$$+TrayExecByTray 9 8$$+TrayExecByTray 9 9$$+TrayExecByTray 8 0$$+TrayExecByTray 8 1$$+TrayExecByTray 8 2$$+TrayExecByTray 8 3$$+TrayExecByTray 8 4$$+TrayExecByTray 8 5$$+TrayExecByTray 8 6$$+TrayExecByTray 8 7$$+TrayExecByTray 8 8$$+TrayExecByTray 8 9$$+TrayExecByTray 7 0$$+TrayExecByTray 7 1$$+TrayExecByTray 7 2$$+TrayExecByTray 7 3$$+TrayExecByTray 7 4$$+TrayExecByTray 7 5$$+TrayExecByTray 7 6$$+TrayExecByTray 7 7$$+TrayExecByTray 7 8$$+TrayExecByTray 7 9$$+TrayExecByTray 6 0$$+TrayExecByTray 6 1$$+TrayExecByTray 6 2$$+TrayExecByTray 6 3$$+TrayExecByTray 6 4$$+TrayExecByTray 6 5$$+TrayExecByTray 6 6$$+TrayExecByTray 6 7$$+TrayExecByTray 6 8$$+TrayExecByTray 6 9"
 1 "FirePhasers$$LootRollNeed$$FireProjectiles$$CombatLog 1"
