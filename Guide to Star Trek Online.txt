@@ -32,16 +32,16 @@ Cptn spec: Temporal primary, strategist secondary.
 Cptn traits: give your all and failsafe scrambler (for survivability), reconstructive radiation (against borg)
 Space Traits: same as skills
 Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
-Boff Powers: Your ensign slot should always have Team ability, polarize hull and attack pattern beta is important, 
+Boff Powers: Your ensign slot should always have Team ability, polarize hull and attack pattern beta is important,
 Intel powers and tractor beam are important if you have carrier wave shield hacking trait, Photonic officer is important to reduce cd.
-Doffs: emergency conn hologram (from phoenix), 3 energy officers with crtd (rare is good enough)
+Doffs: emergency conn hologram (from phoenix), 3 energy officers with crtd (rare is good enough), fabrication eng to extend reverse shield polarity.
 Ship: Any T6, preferably with 2 experimental upgrades.
 Ship traits: any
 Ship seating: any, for pvp you want cmdr intel
 Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent, or crafted ones with pen mod.
-Consoles: lorca console for shpen, hostile aquisition for acc, slow down, and -drr, fleet power network array for additional attack upgrade and haste (you are also an ally), 
-protomatter consoles for heal and +dmg and xenotech consoles for hullpen, resall, eps and turn rate.
-Ship gear: Omega force engines and shield, gamma rep core and colony deflector
+Consoles: fleet power network array for additional attack upgrade and haste (you are also an ally), protomatter consoles for heal and +dmg,
+flagship computer from T3 temporal escort (dil), domino from bajoran interceptor (lobi), nullifiers with hullreg or plasma proc, and xenotech consoles for hullpen, resall, eps and turn rate.
+Ship gear: gamma core and engines (reeng engines for spd), colony secondary/deflector and iconian shield
 Ship devices: Nimbus Pirates, Delta reinforcement, Phased Waveform, deuterium surplus, and romulan Rep consumables.
 
 # Mechanics
@@ -57,11 +57,11 @@ so look for stuff that is per hit, like agony phasers or attack pattern beta. In
 they will be your nannies, so you can buff yourself up. Reverse Shield Polarity, aux to inertial, attack pattern omega, control immunity, polarize hull, 
 dmg immunity are immunities which you can use, but against others using them you should use +75 pen to targets immune to dmg trait. 
 Also, sitting ducks will recieve more dmg since they have lower defense stat, so you should always move, and try to slow down, or disable engines of your target. 
-If you prefer not to move around, get Anchored trait. Ideally you wanna use 1 energy weapons aoe attack upgrade, with possibly one torp/mine aoe attack upgrade with 6s reload 
+If you prefer not to move around, get Anchored trait. Ideally you wanna use 1 energy weapons aoe attack upgrade, with possibly one torp aoe attack upgrade with 6s reload 
 torps and/or fast reload mines. EPG is basically dmg that ignores shields and doesn't involve weapons. Exotic is any dmg that ignores shields. Note I didn't write pen it, but ignore it. 
 So if you don't have lorca console, I guess epg or exotic can be a cool build. Torps I didn't play much around with, but dps is damage per second, meaning any weapon that does spike dmg is useful, 
 huge dmg in short ammount of time. If you're chasing dps, look for that kind of weapons, and quad cannons maybe. Also, try to avoid slotting two or more identical things. 
-Ideally you want 1 of each kind of things, combining 2 or more different things. If you have 8 same things, not more than 2 will actually work.
+Ideally you want 1 of each kind of things, combining 2 or more different things.
 
 # Dmg calc
 Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
@@ -92,8 +92,8 @@ Copy the following in notepad and save as Space.txt. Then while you are in space
 Assign your powers to tray 10, 9, 8 and 7 and keep pressing spacebar during combat. Press key 1 to fire weapons. If you slot mines, pressing 1 a few times will start the mines, 
 and set your weapons on cycle, so you don't have to press 1 later on, just spacebar.
 
-Space "+TrayExecByTray 9 0$$+TrayExecByTray 9 1$$+TrayExecByTray 9 2$$+TrayExecByTray 9 3$$+TrayExecByTray 9 4$$+TrayExecByTray 9 5$$+TrayExecByTray 9 6$$+TrayExecByTray 9 7$$+TrayExecByTray 9 8$$+TrayExecByTray 9 9$$+TrayExecByTray 8 0$$+TrayExecByTray 8 1$$+TrayExecByTray 8 2$$+TrayExecByTray 8 3$$+TrayExecByTray 8 4$$+TrayExecByTray 8 5$$+TrayExecByTray 8 6$$+TrayExecByTray 8 7$$+TrayExecByTray 8 8$$+TrayExecByTray 8 9$$+TrayExecByTray 7 0$$+TrayExecByTray 7 1$$+TrayExecByTray 7 2$$+TrayExecByTray 7 3$$+TrayExecByTray 7 4$$+TrayExecByTray 7 5$$+TrayExecByTray 7 6$$+TrayExecByTray 7 7$$+TrayExecByTray 7 8$$+TrayExecByTray 7 9$$+TrayExecByTray 6 0$$+TrayExecByTray 6 1$$+TrayExecByTray 6 2$$+TrayExecByTray 6 3$$+TrayExecByTray 6 4$$+TrayExecByTray 6 5$$+TrayExecByTray 6 6$$+TrayExecByTray 6 7$$+TrayExecByTray 6 8$$+TrayExecByTray 6 9"
-1 "FirePhasers$$LootRollNeed$$FireProjectiles$$CombatLog 1"
+Space "LootRollNeed$$+TrayExecByTray 9 0$$+TrayExecByTray 9 1$$+TrayExecByTray 9 2$$+TrayExecByTray 9 3$$+TrayExecByTray 9 4$$+TrayExecByTray 9 5$$+TrayExecByTray 9 6$$+TrayExecByTray 9 7$$+TrayExecByTray 9 8$$+TrayExecByTray 9 9$$+TrayExecByTray 8 0$$+TrayExecByTray 8 1$$+TrayExecByTray 8 2$$+TrayExecByTray 8 3$$+TrayExecByTray 8 4$$+TrayExecByTray 8 5$$+TrayExecByTray 8 6$$+TrayExecByTray 8 7$$+TrayExecByTray 8 8$$+TrayExecByTray 8 9$$+TrayExecByTray 7 0$$+TrayExecByTray 7 1$$+TrayExecByTray 7 2$$+TrayExecByTray 7 3$$+TrayExecByTray 7 4$$+TrayExecByTray 7 5$$+TrayExecByTray 7 6$$+TrayExecByTray 7 7$$+TrayExecByTray 7 8$$+TrayExecByTray 7 9$$+TrayExecByTray 6 0$$+TrayExecByTray 6 1$$+TrayExecByTray 6 2$$+TrayExecByTray 6 3$$+TrayExecByTray 6 4$$+TrayExecByTray 6 5$$+TrayExecByTray 6 6$$+TrayExecByTray 6 7$$+TrayExecByTray 6 8$$+TrayExecByTray 6 9$$LootRollNeed"
+1 "FirePhasers$$FireProjectiles$$CombatLog 1"
 
 # Ground keybinds
 Copy the following in notepad and save as Ground.txt. Then while you are on ground in STO, type /unbind_all and then /bind_load_file D:\Ground.txt (or path where you saved the file). 
