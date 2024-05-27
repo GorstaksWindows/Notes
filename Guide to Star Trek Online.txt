@@ -40,7 +40,7 @@ Ship traits: any
 Ship seating: any, for pvp you want cmdr intel
 Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent, or crafted ones with pen mod.
 Consoles: fleet power network array for additional attack upgrade and haste (you are also an ally), protomatter consoles for heal and +dmg,
-flagship computer from T3 temporal escort (dil), domino from bajoran interceptor (lobi), nullifiers with hullreg or plasma proc, and xenotech consoles for hullpen, resall, eps and turn rate.
+flagship computer from T3 temporal escort (dil), domino from bajoran interceptor (lobi), nullifiers with hullreg or plasma proc.
 Ship gear: gamma core and engines (reeng engines for spd), colony secondary/deflector and iconian shield
 Ship devices: Nimbus Pirates, Delta reinforcement, Phased Waveform, deuterium surplus, and romulan Rep consumables.
 
