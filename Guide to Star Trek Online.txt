@@ -29,18 +29,17 @@ Cptn: Any, preferably Alien, preferably Rom.
 Cptn career: Any, preferably sci.
 Cptn skills: distance penalty should be maxed out, resists, cooldown reduction, crits and penetration is important.
 Cptn spec: Temporal primary, strategist secondary.
-Cptn traits: give your all and failsafe scrambler (for survivability), reconstructive radiation (against borg)
-Space Traits: same as skills
+Cptn traits: fleet coordinator, training, innocuus, operative, point blank shot, barrage
+Space Traits: advanced targeting systems, aux offense, controlled countermeasures, counter stroke, magnified firepower
 Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
-Boff Powers: Your ensign slot should always have Team ability, polarize hull and attack pattern beta is important,
-Intel powers and tractor beam are important if you have carrier wave shield hacking trait, Photonic officer is important to reduce cd.
+Boff Powers: attack pattern omega, emergency power to weapons, photonic officer, reverse shield polarity, emergency power to engines, one energy weps attack upgrade and one torp attack upgrade
 Doffs: emergency conn hologram (from phoenix), 3 energy officers with crtd (rare is good enough), fabrication eng to extend reverse shield polarity.
 Ship: Any T6, preferably with 2 experimental upgrades.
 Ship traits: any
 Ship seating: any, for pvp you want cmdr intel
-Ship Weapons: any, preferably with dmg/crtd mod, agony phasers should be decent, or crafted ones with pen mod.
+Ship Weapons: any, preferably with crtd mods
 Consoles: fleet power network array for additional attack upgrade and haste (you are also an ally), protomatter consoles for heal and +dmg,
-flagship computer from T3 temporal escort (dil), domino from bajoran interceptor (lobi), nullifiers with hullreg or plasma proc and xenotech consoles with hullpen.
+flagship computer from T3 temporal escort (dil), domino from bajoran interceptor (lobi), nullifiers with plasma proc, hull image refractors, assimilated module.
 Ship gear: gamma core and engines (reeng engines for spd), colony secondary/deflector and iconian shield
 Ship devices: Nimbus Pirates, Delta reinforcement, Phased Waveform, deuterium surplus, and romulan Rep consumables.
 
@@ -83,6 +82,7 @@ You have +dmg, high crits, haste and debuff your target = huge dmg
 
 # Where to do research:
 https://vger.netlify.app (turn on description search in options in top right)
+https://www.reddit.com/r/stobuilds/wiki/math/damage_categories/
 
 # Important
 Some stuff is for veterans, and lowest vet tier unlocks at 100 days. Type "/played" into chat window.
