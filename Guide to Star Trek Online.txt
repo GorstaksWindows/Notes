@@ -42,6 +42,7 @@ Consoles: fleet power network array for additional attack upgrade and haste (you
 flagship computer from T3 temporal escort (dil), domino from bajoran interceptor (lobi), nullifiers with plasma proc, hull image refractors, assimilated module.
 Ship gear: gamma core and engines (reeng engines for spd), colony secondary/deflector and iconian shield
 Ship devices: Nimbus Pirates, Delta reinforcement, Phased Waveform, deuterium surplus, and romulan Rep consumables.
+Ship Power: If you use energy weps, change to number 3 power view, set power to weapons, lock it, minimize shields, lock it, minimize engines, lock it.
 
 # Mechanics
 Attacking multiple targets means receiving more dmg and generating more threat. If you use strategist specialization, and hull image refractors console, with threat cptn skill,
