@@ -32,7 +32,7 @@ Cptn spec: Temporal primary, strategist secondary.
 Cptn traits: fleet coordinator, training, innocuus, operative, point blank shot, barrage
 Space Traits: active hull hardening, advanced targeting systems, aux offense, magnified firepower and unshaken resolve
 Boffs: Preferably with trait Superior Romulan Operative (easy to obtain if cptn is rom, expensive for others), or watchers.
-Boff Powers: attack pattern omega, emergency power to weapons, photonic officer, reverse shield polarity, emergency power to engines, one energy weps attack upgrade and one torp attack upgrade
+Boff Powers: attack pattern omega, emergency power to weapons and engines, photonic officer, reverse shield polarity, one energy weps attack upgrade and one torp attack upgrade
 Doffs: emergency conn hologram (from phoenix), 3 energy officers with crtd (rare is good enough), fabrication eng to extend reverse shield polarity.
 Ship: Any T6, preferably with 2 experimental upgrades.
 Ship traits: any
