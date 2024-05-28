@@ -38,7 +38,7 @@ Ship: Any T6, preferably with 2 experimental upgrades.
 Ship traits: any
 Ship seating: any, for pvp you want cmdr intel
 Ship Weapons: any, preferably with crtd mods
-Tac Consoles: protomatter consoles for heal and +dmg,
+Tac Consoles: protomatter consoles
 Sci Consoles: Nullifiers with plasma proc (stealth)
 Eng Consoles: fleet power network array, flagship computer, d.o.m.i.n.o, assimilated module
 Uni Consoles: hull image refractors, hostile acquisition
