@@ -38,8 +38,10 @@ Ship: Any T6, preferably with 2 experimental upgrades.
 Ship traits: any
 Ship seating: any, for pvp you want cmdr intel
 Ship Weapons: any, preferably with crtd mods
-Consoles: fleet power network array for additional attack upgrade and haste (you are also an ally), protomatter consoles for heal and +dmg,
-flagship computer from T3 temporal escort (dil), domino from bajoran interceptor (lobi), nullifiers with plasma proc, hull image refractors, assimilated module.
+Tac Consoles: protomatter consoles for heal and +dmg,
+Sci Consoles: Nullifiers with plasma proc (stealth)
+Eng Consoles: fleet power network array, flagship computer, d.o.m.i.n.o, assimilated module
+Uni Consoles: hull image refractors, hostile acquisition
 Ship gear: gamma core and engines (reeng engines for spd), colony secondary/deflector and iconian shield
 Ship devices: Nimbus Pirates, Delta reinforcement, Phased Waveform, deuterium surplus, and romulan Rep consumables.
 Ship Power: If you use energy weps, change to number 3 power view, set power to weapons, lock it, minimize shields, lock it, minimize engines, lock it.
