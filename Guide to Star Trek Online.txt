@@ -46,25 +46,6 @@ Ship gear: gamma core and engines (reeng engines for spd), colony secondary/defl
 Ship devices: Nimbus Pirates, Delta reinforcement, Phased Waveform, deuterium surplus, and romulan Rep consumables.
 Ship Power: If you use energy weps, change to number 3 power view, set power to weapons, lock it, minimize shields, lock it, minimize engines, lock it.
 
-# Mechanics
-Attacking multiple targets means receiving more dmg and generating more threat. If you use strategist specialization, and hull image refractors console, with threat cptn skill,
-you can have everyone shooting at you, while those things will increase your hullcap, your crits, and any incoming heals. Protomatter consoles will show as procs on your attack upgrades, 
-so reducing cooldown on your attack upgrades is important. You can slot an attack upgrade even if you don't have those weapons slotted, to trigger the protomatter console. 
-Give your all trait will show as procs on your eng skills. You also may want all bonuses applied prior to firing your weapons as they usually last longer than weapons fire, 
-so if your haste triggers, you do double dmg. Shields will deny 90-95% of your dmg, so lorca console, which is basically shield pen is important.
-Hull resists (armor) can usually deny half of your dmg, so sources of pen, or attack pattern beta is important. Pen, be it shield or hull, doesn't beat resists, it actually increases bleedthrough. 
-So normal shields have 5-10% bleedthroughs, and if you have lorca and shpen trait, you can get it to 100%. Carrier wave shield hacking trait can insta drop their shields. 
-Similarily, hull resist 60% means there is 40% bleedthrough. Normal weapon procs are per cycle, meaning they have a chance every 4 or 5 shots, 
-so look for stuff that is per hit, like agony phasers or attack pattern beta. In ideal conditions, your team will cast attack pattern beta on your target, 
-they will be your nannies, so you can buff yourself up. Reverse Shield Polarity, aux to inertial, attack pattern omega, control immunity, polarize hull, 
-dmg immunity are immunities which you can use, but against others using them you should use +75 pen to targets immune to dmg trait. 
-Also, sitting ducks will recieve more dmg since they have lower defense stat, so you should always move, and try to slow down, or disable engines of your target. 
-If you prefer not to move around, get Anchored trait. Ideally you wanna use 1 energy weapons aoe attack upgrade, with possibly one torp aoe attack upgrade with 6s reload 
-torps and/or fast reload mines. EPG is basically dmg that ignores shields and doesn't involve weapons. Exotic is any dmg that ignores shields. Note I didn't write pen it, but ignore it. 
-So if you don't have lorca console, I guess epg or exotic can be a cool build. Torps I didn't play much around with, but dps is damage per second, meaning any weapon that does spike dmg is useful, 
-huge dmg in short ammount of time. If you're chasing dps, look for that kind of weapons, and quad cannons maybe. Also, try to avoid slotting two or more identical things. 
-Ideally you want 1 of each kind of things, combining 2 or more different things.
-
 # Dmg calc
 Weapon base is mark I. That base is a small number. If you increase mark, dmg goes up. Weapon rarity basically means you have more mods on your weapons.
 For example, normal beam at mark XII does 500 dmg and at xv and 75 wep power does 1k dps. If you add 5 30% +dmg consoles and 5 dmg mods (10% +dmg each), 
