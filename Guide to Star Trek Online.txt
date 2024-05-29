@@ -71,6 +71,11 @@ https://www.reddit.com/r/stobuilds/wiki/math/damage_categories/
 # Important
 Some stuff is for veterans, and lowest vet tier unlocks at 100 days. Type "/played" into chat window.
 
+# How to play
+Tanking: Tanking relies on pulling aggro to increase threat by shooting multiple targets, then using strategist skill, colony deflector to increase your hullcap, your crits, your dmg res and incoming heals
+Support: Support relies on debuffing your enemies and healing others. Pen and attack pattern beta is important, maybe type 7 shuttles too
+Damage: Dps relies on slotting as much as possible +dmg (cat1) +bonus dmg (crtd), final multipliers (attack upgrades), reducing cd or extending uptime of attack upgrades, haste and piloting
+
 # Space keybinds
 Copy the following in notepad and save as Space.txt. Then while you are in space in STO, type /unbind_all and then /bind_load_file D:\Space.txt (or path where you saved the file). 
 Assign your powers to tray 10, 9, 8 and 7 and keep pressing spacebar during combat. Press key 1 to fire weapons. If you slot mines, pressing 1 a few times will start the mines, 
