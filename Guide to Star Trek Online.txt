@@ -73,7 +73,7 @@ Some stuff is for veterans, and lowest vet tier unlocks at 100 days. Type "/play
 
 # How to play
 Tanking: Tanking relies on pulling aggro to increase threat by shooting multiple targets, then using strategist skill, colony deflector to increase your hullcap, your crits, your dmg res and incoming heals
-Support: Support relies on debuffing your enemies and healing others. Pen and attack pattern beta is important, maybe type 7 shuttles too
+Support: Support relies on debuffing your enemies and healing others. Pen and attack pattern beta is important, maybe type 7 shuttles and delta flyers too
 Damage: Dps relies on slotting as much as possible +dmg (cat1) +bonus dmg (crtd), final multipliers (attack upgrades), reducing cd or extending uptime of attack upgrades, haste and piloting
 
 # Space keybinds
