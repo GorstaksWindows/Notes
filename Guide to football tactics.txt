@@ -50,7 +50,7 @@ g) contain = ST
 6) Notes
 
 a) Changing fluidity and mentality will make your team weaker (if you decrease it), or too tired before match is over (if you increase it).
-b) You can change pressing instead of fluidity, and passing instead of mentality. Or change all 3 options.
+b) You can change pressing instead of fluidity, and passing instead of mentality. Or change all 3 options (like instead of fluid opt for flexible + press more).
 c) Defense is played so you are in passing in opponent third. Offense is waiting in your half and going counter
 d) Players will get injured or get cards if mentality is higher then fluidity.
 e) If newly assembled team, drop fluidity so players positioning is better
