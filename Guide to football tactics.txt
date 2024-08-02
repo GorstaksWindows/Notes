@@ -47,43 +47,19 @@ e) counter = MC
 f) defensive = AMC
 g) contain = ST
 
-6. When and where to use each fluidity if in England
-
-a) very fluid = not recommended unless godly players
-b) fluid = Premier League
-c) flexible = Championship league
-d) structured = League 1 and 2
-e) highly structured = Conference and amateur Leagues
-
-7) When and where to use each mentality
-
-a) Attacking = if you are a league above opponent
-b) Control = if playing at home against weaker opponent
-c) Standard = if you want to draw or unsure what to expect
-d) Counter = if you are underdog or playing away from home
-e) Defensive = if you want match to go to extra time or scrape 1:0
-
-
-8) Mentality efficiency
-
-a) Attacking = first 20 min
-b) Control = from 20 to 40th min
-c) Standard = around halftime
-d) Counter = from 60 to 80th minute
-e) Defensive = end of match and half time
-
-9) Notes
+6) Notes
 
 a) Changing fluidity and mentality will make your team weaker (if you decrease it), or too tired before match is over (if you increase it).
-b) Change pressing instead of fluidity, and passing instead of mentality.
+b) You can change pressing instead of fluidity, and passing instead of mentality. Or change all 3 options.
 c) Defense is played so you are in passing in opponent third. Offense is waiting in your half and going counter
 d) Players will get injured or get cards if mentality is higher then fluidity.
 e) If newly assembled team, drop fluidity so players positioning is better
 f) If more structured, players are prone to errors but with good positioning
 g) If more fluid, good with referee, lots of chances
+h) More fluid and more agressive will yield better results, but will tire out your players before match is over.
+j) Playing more defensively and less fluid can make your team stronger, but can also make you a punching bag.
 
-
-10) Player responsibilities
+7) Player responsibilities
 
 a) Very fluid
 
